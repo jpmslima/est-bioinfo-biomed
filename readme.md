@@ -15,9 +15,9 @@
 ### Primeira Parte - Introdução à Bioinformática e aos Dados Biológicos.
 #### Semana 1:
 - Recepção no BioME e apresentação do local de trabalho.
-    - Leitura Inicial: Introdução à Bioinformática.
+    - Leitura Inicial: [Boas Práticas Computacionais](https://inct-pdhn-funbios.github.io/#aula1)
 - Introdução ao R.
-    - Linha de comando Linux/UNIX.
+- Linha de comando Linux/UNIX.
     - Navegação e manipulação de arquivos no terminal.
     - Editores de texto vía terminal.
     - Expressões regulares e busca de padrões.

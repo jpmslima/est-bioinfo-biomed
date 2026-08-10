@@ -4,6 +4,10 @@
 **Semestre**: 2026.2
 **Preceptor responsável**: João Paulo MS Lima
 
+## Formulário para preenchimento de informações
+Preencha o formulário com as informações de contato neste link:
+[https://forms.gle/kc8ELoizLxZCSt9V8](https://forms.gle/kc8ELoizLxZCSt9V8)
+
 ## Plano de trabalho e acompanhamento
 ### Objetivos
 

@@ -16,16 +16,19 @@
 #### Semana 1:
 - Recepção no BioME e apresentação do local de trabalho.
     - Leitura Inicial: [Boas Práticas Computacionais](https://inct-pdhn-funbios.github.io/#aula1)
-- Introdução ao R.
-- Linha de comando Linux/UNIX.
+- Introdução ao [Git e Github](https://inct-pdhn-funbios.github.io/#aula2).
+- [Linha de comando Linux/UNIX](https://inct-pdhn-funbios.github.io/#aula3):
     - Navegação e manipulação de arquivos no terminal.
     - Editores de texto vía terminal.
     - Expressões regulares e busca de padrões.
+- [Introdução ao R](https://inct-pdhn-funbios.github.io/#aula5).
 - Acesso remoto a máquinas para execução de comandos e processos em bioinformática.
+- [Ambientes Computacionais](https://inct-pdhn-funbios.github.io/#aula6).
 - Definindo pipelines.
 - Manipulação e extração de informações de arquivos:
     - Sequências biológicas.
     - Genomas e anotações gênicas.
+- [Introdução ao Python](https://inct-pdhn-funbios.github.io/#aula5).
 - Criação de conta e acesso ao Núcleo de Processamento de Alto Desempenho (NPAD) para execução de processos.
 - Relatório semanal de acompanhamento no Github.
 #### Semana 2:

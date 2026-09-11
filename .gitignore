@@ -1,0 +1,32 @@
+# Ambientes virtuais e cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# ==============================================================================
+# CAMADA BRONZE (Arquivos Brutos Volumosos > 100MB e Cache)
+# ==============================================================================
+data/bronze/alphamissense_raw_stream.tsv
+data/bronze/alphafold_pdb_cache/
+alphamissense_predicoes_genes_estagio.tsv
+cache_alphafold_pdb/
+
+# Duplicatas em CSV (preservamos os arquivos canônicos .tsv)
+*.csv
+data/**/*.csv
+
+# Caches de requisição e modelos intermediários
+data/bronze/uniprot_cache/
+data/modelos_mutantes/
+
+# Figuras geradas localmente (não versionar no repositório)
+figuras/
+
+# Logs e arquivos do sistema
+*.log
+.DS_Store
+.vscode/
+.idea/

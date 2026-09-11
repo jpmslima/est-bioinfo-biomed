@@ -1,0 +1,435 @@
+Gene_Original	Gene_Query	Status	UniProt_ID	Entry_Name	Curacao	Nome_Proteina	Gene_Primario_UniProt	Sinonimos	Tamanho_aa	Link_UniProt
+IL17A	IL17A	Mapeado	Q16552	IL17_HUMAN	Swiss-Prot (Reviewed)	Interleukin-17A	IL17A	CTLA8, IL17	155	https://www.uniprot.org/uniprotkb/Q16552/entry
+SMAD3	SMAD3	Mapeado	P84022	SMAD3_HUMAN	Swiss-Prot (Reviewed)	SMAD family member 3	SMAD3	MADH3	425	https://www.uniprot.org/uniprotkb/P84022/entry
+MYC	MYC	Mapeado	P01106	MYC_HUMAN	Swiss-Prot (Reviewed)	Myc proto-oncogene protein	MYC	BHLHE39	454	https://www.uniprot.org/uniprotkb/P01106/entry
+STAT3	STAT3	Mapeado	P40763	STAT3_HUMAN	Swiss-Prot (Reviewed)	Signal transducer and activator of transcription 3	STAT3	APRF	770	https://www.uniprot.org/uniprotkb/P40763/entry
+BMP7	BMP7	Mapeado	P18075	BMP7_HUMAN	Swiss-Prot (Reviewed)	Bone morphogenetic protein 7	BMP7	OP1	431	https://www.uniprot.org/uniprotkb/P18075/entry
+CCR7	CCR7	Mapeado	P32248	CCR7_HUMAN	Swiss-Prot (Reviewed)	C-C chemokine receptor type 7	CCR7	CMKBR7, EBI1, EVI1	378	https://www.uniprot.org/uniprotkb/P32248/entry
+SELL	SELL	Mapeado	P14151	LYAM1_HUMAN	Swiss-Prot (Reviewed)	L-selectin	SELL	LNHR, LYAM1	372	https://www.uniprot.org/uniprotkb/P14151/entry
+CXCL2	CXCL2	Mapeado	P19875	CXCL2_HUMAN	Swiss-Prot (Reviewed)	C-X-C motif chemokine 2	CXCL2	GRO2, GROB, MIP2A, SCYB2	107	https://www.uniprot.org/uniprotkb/P19875/entry
+IL1R1	IL1R1	Mapeado	P14778	IL1R1_HUMAN	Swiss-Prot (Reviewed)	Interleukin-1 receptor type 1	IL1R1	IL1R, IL1RA, IL1RT1	569	https://www.uniprot.org/uniprotkb/P14778/entry
+LTA	LTA	Mapeado	P01374	TNFB_HUMAN	Swiss-Prot (Reviewed)	Lymphotoxin-alpha	LTA	TNFB, TNFSF1	205	https://www.uniprot.org/uniprotkb/P01374/entry
+CCL25	CCL25	Mapeado	O15444	CCL25_HUMAN	Swiss-Prot (Reviewed)	C-C motif chemokine 25	CCL25	SCYA25, TECK	150	https://www.uniprot.org/uniprotkb/O15444/entry
+IL17RA	IL17RA	Mapeado	Q96F46	I17RA_HUMAN	Swiss-Prot (Reviewed)	Interleukin-17 receptor A	IL17RA	IL17R	866	https://www.uniprot.org/uniprotkb/Q96F46/entry
+MICA	MICA	Mapeado	Q29983	MICA_HUMAN	Swiss-Prot (Reviewed)	MHC class I polypeptide-related sequence A	MICA	PERB11.1	383	https://www.uniprot.org/uniprotkb/Q29983/entry
+HLA-B	HLA-B	Mapeado	P01889	HLAB_HUMAN	Swiss-Prot (Reviewed)	HLA class I histocompatibility antigen, B alpha chain	HLA-B	HLAB	362	https://www.uniprot.org/uniprotkb/P01889/entry
+TNF	TNF	Mapeado	P01375	TNFA_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor	TNF	TNFA, TNFSF2	233	https://www.uniprot.org/uniprotkb/P01375/entry
+IL12B	IL12B	Mapeado	P29460	IL12B_HUMAN	Swiss-Prot (Reviewed)	Interleukin-12 subunit beta	IL12B	NKSF2	328	https://www.uniprot.org/uniprotkb/P29460/entry
+NFKB1	NFKB1	Mapeado	P19838	NFKB1_HUMAN	Swiss-Prot (Reviewed)	Nuclear factor NF-kappa-B p105 subunit	NFKB1		968	https://www.uniprot.org/uniprotkb/P19838/entry
+JAK3	JAK3	Mapeado	P52333	JAK3_HUMAN	Swiss-Prot (Reviewed)	Tyrosine-protein kinase JAK3	JAK3		1124	https://www.uniprot.org/uniprotkb/P52333/entry
+PLCG1	PLCG1	Mapeado	P19174	PLCG1_HUMAN	Swiss-Prot (Reviewed)	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1	PLCG1	PLC1	1290	https://www.uniprot.org/uniprotkb/P19174/entry
+JAK2	JAK2	Mapeado	O60674	JAK2_HUMAN	Swiss-Prot (Reviewed)	Tyrosine-protein kinase JAK2	JAK2		1132	https://www.uniprot.org/uniprotkb/O60674/entry
+IL23A	IL23A	Mapeado	Q9NPF7	IL23A_HUMAN	Swiss-Prot (Reviewed)	Interleukin-23 subunit alpha	IL23A	SGRF	189	https://www.uniprot.org/uniprotkb/Q9NPF7/entry
+IL23R	IL23R	Mapeado	Q5VWK5	IL23R_HUMAN	Swiss-Prot (Reviewed)	Interleukin-23 receptor	IL23R		629	https://www.uniprot.org/uniprotkb/Q5VWK5/entry
+ERAP1	ERAP1	Mapeado	Q9NZ08	ERAP1_HUMAN	Swiss-Prot (Reviewed)	Endoplasmic reticulum aminopeptidase 1	ERAP1	APPILS, ARTS1, KIAA0525	941	https://www.uniprot.org/uniprotkb/Q9NZ08/entry
+RUNX3	RUNX3	Mapeado	Q13761	RUNX3_HUMAN	Swiss-Prot (Reviewed)	Runt-related transcription factor 3	RUNX3	AML2, CBFA3, PEBP2A3	415	https://www.uniprot.org/uniprotkb/Q13761/entry
+FOS	FOS	Mapeado	P01100	FOS_HUMAN	Swiss-Prot (Reviewed)	Protein c-Fos	FOS	G0S7	380	https://www.uniprot.org/uniprotkb/P01100/entry
+JUN	JUN	Mapeado	P05412	JUN_HUMAN	Swiss-Prot (Reviewed)	Transcription factor Jun	JUN		331	https://www.uniprot.org/uniprotkb/P05412/entry
+JUNB	JUNB	Mapeado	P17275	JUNB_HUMAN	Swiss-Prot (Reviewed)	Transcription factor JunB	JUNB		347	https://www.uniprot.org/uniprotkb/P17275/entry
+GZMK	GZMK	Mapeado	P49863	GRAK_HUMAN	Swiss-Prot (Reviewed)	Granzyme K	GZMK	TRYP2	264	https://www.uniprot.org/uniprotkb/P49863/entry
+CD8A	CD8A	Mapeado	P01732	CD8A_HUMAN	Swiss-Prot (Reviewed)	T-cell surface glycoprotein CD8 alpha chain	CD8A	MAL	235	https://www.uniprot.org/uniprotkb/P01732/entry
+CD160	CD160	Mapeado	O95971	BY55_HUMAN	Swiss-Prot (Reviewed)	CD160 antigen	CD160	BY55	181	https://www.uniprot.org/uniprotkb/O95971/entry
+GZMB	GZMB	Mapeado	P10144	GRAB_HUMAN	Swiss-Prot (Reviewed)	Granzyme B	GZMB	CGL1, CSPB, CTLA1, GRB	247	https://www.uniprot.org/uniprotkb/P10144/entry
+NKG7	NKG7	Mapeado	Q16617	NKG7_HUMAN	Swiss-Prot (Reviewed)	Protein NKG7	NKG7	GIG1	165	https://www.uniprot.org/uniprotkb/Q16617/entry
+CD19	CD19	Mapeado	P15391	CD19_HUMAN	Swiss-Prot (Reviewed)	B-lymphocyte antigen CD19	CD19		556	https://www.uniprot.org/uniprotkb/P15391/entry
+CD68	CD68	Mapeado	P34810	CD68_HUMAN	Swiss-Prot (Reviewed)	Macrosialin	CD68		354	https://www.uniprot.org/uniprotkb/P34810/entry
+S100A12	S100A12	Mapeado	P80511	S10AC_HUMAN	Swiss-Prot (Reviewed)	Protein S100-A12	S100A12		92	https://www.uniprot.org/uniprotkb/P80511/entry
+CD83	CD83	Mapeado	Q01151	CD83_HUMAN	Swiss-Prot (Reviewed)	CD83 antigen	CD83		205	https://www.uniprot.org/uniprotkb/Q01151/entry
+CX3CR1	CX3CR1	Mapeado	P49238	CX3C1_HUMAN	Swiss-Prot (Reviewed)	CX3C chemokine receptor 1	CX3CR1	CMKBRL1, GPR13	355	https://www.uniprot.org/uniprotkb/P49238/entry
+CEBPA	CEBPA	Mapeado	P49715	CEBPA_HUMAN	Swiss-Prot (Reviewed)	CCAAT/enhancer-binding protein alpha	CEBPA	CEBP	358	https://www.uniprot.org/uniprotkb/P49715/entry
+JUND	JUND	Mapeado	P17535	JUND_HUMAN	Swiss-Prot (Reviewed)	Transcription factor JunD	JUND		347	https://www.uniprot.org/uniprotkb/P17535/entry
+CEBPG	CEBPG	Mapeado	P53567	CEBPG_HUMAN	Swiss-Prot (Reviewed)	CCAAT/enhancer-binding protein gamma	CEBPG		150	https://www.uniprot.org/uniprotkb/P53567/entry
+FOSL1	FOSL1	Mapeado	P15407	FOSL1_HUMAN	Swiss-Prot (Reviewed)	Fos-related antigen 1	FOSL1	FRA1	271	https://www.uniprot.org/uniprotkb/P15407/entry
+TBX21	TBX21	Mapeado	Q9UL17	TBX21_HUMAN	Swiss-Prot (Reviewed)	T-box transcription factor TBX21	TBX21	TBET, TBLYM	535	https://www.uniprot.org/uniprotkb/Q9UL17/entry
+RELA	RELA	Mapeado	Q04206	TF65_HUMAN	Swiss-Prot (Reviewed)	Transcription factor p65	RELA	NFKB3	551	https://www.uniprot.org/uniprotkb/Q04206/entry
+PRDM1	PRDM1	Mapeado	O75626	PRDM1_HUMAN	Swiss-Prot (Reviewed)	PR domain zinc finger protein 1	PRDM1	BLIMP1	825	https://www.uniprot.org/uniprotkb/O75626/entry
+TLR4	TLR4	Mapeado	O00206	TLR4_HUMAN	Swiss-Prot (Reviewed)	Toll-like receptor 4	TLR4		839	https://www.uniprot.org/uniprotkb/O00206/entry
+EGFR	EGFR	Mapeado	P00533	EGFR_HUMAN	Swiss-Prot (Reviewed)	Epidermal growth factor receptor	EGFR	ERBB, ERBB1, HER1	1210	https://www.uniprot.org/uniprotkb/P00533/entry
+SOD2	SOD2	Mapeado	P04179	SODM_HUMAN	Swiss-Prot (Reviewed)	Superoxide dismutase [Mn], mitochondrial	SOD2		222	https://www.uniprot.org/uniprotkb/P04179/entry
+VCAM1	VCAM1	Mapeado	P19320	VCAM1_HUMAN	Swiss-Prot (Reviewed)	Vascular cell adhesion protein 1	VCAM1		739	https://www.uniprot.org/uniprotkb/P19320/entry
+CTSB	CTSB	Mapeado	P07858	CATB_HUMAN	Swiss-Prot (Reviewed)	Cathepsin B	CTSB	CPSB	339	https://www.uniprot.org/uniprotkb/P07858/entry
+TNFRSF1A	TNFRSF1A	Mapeado	P19438	TNR1A_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor receptor superfamily member 1A	TNFRSF1A	TNFAR, TNFR1	455	https://www.uniprot.org/uniprotkb/P19438/entry
+CD63	CD63	Mapeado	P08962	CD63_HUMAN	Swiss-Prot (Reviewed)	CD63 antigen	CD63	MLA1, TSPAN30	238	https://www.uniprot.org/uniprotkb/P08962/entry
+RPS26	RPS26	Mapeado	P62854	RS26_HUMAN	Swiss-Prot (Reviewed)	Small ribosomal subunit protein eS26	RPS26		115	https://www.uniprot.org/uniprotkb/P62854/entry
+JDP2	JDP2	Mapeado	Q8WYK2	JDP2_HUMAN	Swiss-Prot (Reviewed)	Jun dimerization protein 2	JDP2		163	https://www.uniprot.org/uniprotkb/Q8WYK2/entry
+YWHAB	YWHAB	Mapeado	P31946	1433B_HUMAN	Swiss-Prot (Reviewed)	14-3-3 protein beta/alpha	YWHAB		246	https://www.uniprot.org/uniprotkb/P31946/entry
+IL21	IL21	Mapeado	Q9HBE4	IL21_HUMAN	Swiss-Prot (Reviewed)	Interleukin-21	IL21		162	https://www.uniprot.org/uniprotkb/Q9HBE4/entry
+IL1A	IL1A	Mapeado	P01583	IL1A_HUMAN	Swiss-Prot (Reviewed)	Interleukin-1 alpha	IL1A	IL1F1	271	https://www.uniprot.org/uniprotkb/P01583/entry
+EZH2	EZH2	Mapeado	Q15910	EZH2_HUMAN	Swiss-Prot (Reviewed)	Histone-lysine N-methyltransferase EZH2	EZH2	KMT6	746	https://www.uniprot.org/uniprotkb/Q15910/entry
+RORC	RORC	Mapeado	P51449	RORG_HUMAN	Swiss-Prot (Reviewed)	Nuclear receptor ROR-gamma	RORC	NR1F3, RORG, RZRG	518	https://www.uniprot.org/uniprotkb/P51449/entry
+KDM5B	KDM5B	Mapeado	Q9UGL1	KDM5B_HUMAN	Swiss-Prot (Reviewed)	Lysine-specific demethylase 5B	KDM5B	JARID1B, PLU1, RBBP2H1	1544	https://www.uniprot.org/uniprotkb/Q9UGL1/entry
+PGD	PGD	Mapeado	P52209	6PGD_HUMAN	Swiss-Prot (Reviewed)	6-phosphogluconate dehydrogenase, decarboxylating	PGD	PGDH	483	https://www.uniprot.org/uniprotkb/P52209/entry
+ACKR2	ACKR2	Mapeado	O00590	ACKR2_HUMAN	Swiss-Prot (Reviewed)	Atypical chemokine receptor 2	ACKR2	CCBP2, CCR10, CMKBR9, D6	384	https://www.uniprot.org/uniprotkb/O00590/entry
+FOXP3	FOXP3	Mapeado	Q9BZS1	FOXP3_HUMAN	Swiss-Prot (Reviewed)	Forkhead box protein P3	FOXP3	IPEX	431	https://www.uniprot.org/uniprotkb/Q9BZS1/entry
+S100A9	S100A9	Mapeado	P06702	S10A9_HUMAN	Swiss-Prot (Reviewed)	Protein S100-A9	S100A9	CAGB, CFAG, MRP14	114	https://www.uniprot.org/uniprotkb/P06702/entry
+CXCL8	CXCL8	Mapeado	P10145	IL8_HUMAN	Swiss-Prot (Reviewed)	Interleukin-8	CXCL8	IL8	99	https://www.uniprot.org/uniprotkb/P10145/entry
+CXCR2	CXCR2	Mapeado	P25025	CXCR2_HUMAN	Swiss-Prot (Reviewed)	C-X-C chemokine receptor type 2	CXCR2	IL8RB	360	https://www.uniprot.org/uniprotkb/P25025/entry
+CCR6	CCR6	Mapeado	P51684	CCR6_HUMAN	Swiss-Prot (Reviewed)	C-C chemokine receptor type 6	CCR6	CKRL3, CMKBR6, GPR29, STRL22	374	https://www.uniprot.org/uniprotkb/P51684/entry
+PDCD1	PDCD1	Mapeado	Q15116	PDCD1_HUMAN	Swiss-Prot (Reviewed)	Programmed cell death protein 1	PDCD1	PD1	288	https://www.uniprot.org/uniprotkb/Q15116/entry
+MAF	MAF	Mapeado	O75444	MAF_HUMAN	Swiss-Prot (Reviewed)	Transcription factor Maf	MAF		373	https://www.uniprot.org/uniprotkb/O75444/entry
+IFNG	IFNG	Mapeado	P01579	IFNG_HUMAN	Swiss-Prot (Reviewed)	Interferon gamma	IFNG		166	https://www.uniprot.org/uniprotkb/P01579/entry
+IL17F	IL17F	Mapeado	Q96PD4	IL17F_HUMAN	Swiss-Prot (Reviewed)	Interleukin-17F	IL17F		163	https://www.uniprot.org/uniprotkb/Q96PD4/entry
+IL22	IL22	Mapeado	Q9GZX6	IL22_HUMAN	Swiss-Prot (Reviewed)	Interleukin-22	IL22	ILTIF, ZCYTO18	179	https://www.uniprot.org/uniprotkb/Q9GZX6/entry
+CTSK	CTSK	Mapeado	P43235	CATK_HUMAN	Swiss-Prot (Reviewed)	Cathepsin K	CTSK	CTSO, CTSO2	329	https://www.uniprot.org/uniprotkb/P43235/entry
+ACP5	ACP5	Mapeado	P13686	PPA5_HUMAN	Swiss-Prot (Reviewed)	Tartrate-resistant acid phosphatase type 5	ACP5		325	https://www.uniprot.org/uniprotkb/P13686/entry
+CD4	CD4	Mapeado	P01730	CD4_HUMAN	Swiss-Prot (Reviewed)	T-cell surface glycoprotein CD4	CD4		458	https://www.uniprot.org/uniprotkb/P01730/entry
+CD80	CD80	Mapeado	P33681	CD80_HUMAN	Swiss-Prot (Reviewed)	T-lymphocyte activation antigen CD80	CD80	CD28LG, CD28LG1, LAB7	288	https://www.uniprot.org/uniprotkb/P33681/entry
+CD86	CD86	Mapeado	P42081	CD86_HUMAN	Swiss-Prot (Reviewed)	T-lymphocyte activation antigen CD86	CD86	CD28LG2	329	https://www.uniprot.org/uniprotkb/P42081/entry
+TRAF3IP2	TRAF3IP2	Mapeado	O43734	CIKS_HUMAN	Swiss-Prot (Reviewed)	E3 ubiquitin ligase TRAF3IP2	TRAF3IP2	C6orf2, C6orf4, C6orf5, C6orf6	574	https://www.uniprot.org/uniprotkb/O43734/entry
+AHR	AHR	Mapeado	P35869	AHR_HUMAN	Swiss-Prot (Reviewed)	Aryl hydrocarbon receptor	AHR	BHLHE76	848	https://www.uniprot.org/uniprotkb/P35869/entry
+SGK1	SGK1	Mapeado	O00141	SGK1_HUMAN	Swiss-Prot (Reviewed)	Serine/threonine-protein kinase Sgk1	SGK1	SGK	431	https://www.uniprot.org/uniprotkb/O00141/entry
+SOX4	SOX4	Mapeado	Q06945	SOX4_HUMAN	Swiss-Prot (Reviewed)	Transcription factor SOX-4	SOX4		474	https://www.uniprot.org/uniprotkb/Q06945/entry
+KIR3DL1	KIR3DL1	Mapeado	P43629	KI3L1_HUMAN	Swiss-Prot (Reviewed)	Killer cell immunoglobulin-like receptor 3DL1	KIR3DL1	CD158E, NKAT3, NKB1	444	https://www.uniprot.org/uniprotkb/P43629/entry
+IL33	IL33	Mapeado	O95760	IL33_HUMAN	Swiss-Prot (Reviewed)	Interleukin-33	IL33	C9orf26, IL1F11, NFHEV	270	https://www.uniprot.org/uniprotkb/O95760/entry
+CSF2	CSF2	Mapeado	P04141	CSF2_HUMAN	Swiss-Prot (Reviewed)	Granulocyte-macrophage colony-stimulating factor	CSF2	GMCSF	144	https://www.uniprot.org/uniprotkb/P04141/entry
+IL1B	IL1B	Mapeado	P01584	IL1B_HUMAN	Swiss-Prot (Reviewed)	Interleukin-1 beta	IL1B	IL1F2	269	https://www.uniprot.org/uniprotkb/P01584/entry
+GJB2	GJB2	Mapeado	P29033	CXB2_HUMAN	Swiss-Prot (Reviewed)	Gap junction beta-2 protein	GJB2		226	https://www.uniprot.org/uniprotkb/P29033/entry
+ACP7	ACP7	Mapeado	Q6ZNF0	ACP7_HUMAN	Swiss-Prot (Reviewed)	Acid phosphatase type 7	ACP7	PAPL, PAPL1	438	https://www.uniprot.org/uniprotkb/Q6ZNF0/entry
+TGFA	TGFA	Mapeado	P01135	TGFA_HUMAN	Swiss-Prot (Reviewed)	Protransforming growth factor alpha	TGFA		160	https://www.uniprot.org/uniprotkb/P01135/entry
+SLC7A5	SLC7A5	Mapeado	Q01650	LAT1_HUMAN	Swiss-Prot (Reviewed)	Large neutral amino acids transporter small subunit 1	SLC7A5	CD98LC, LAT1, MPE16	507	https://www.uniprot.org/uniprotkb/Q01650/entry
+FUT2	FUT2	Mapeado	Q10981	FUT2_HUMAN	Swiss-Prot (Reviewed)	Galactoside alpha-(1,2)-fucosyltransferase 2	FUT2	SEC2	343	https://www.uniprot.org/uniprotkb/Q10981/entry
+UTP11	UTP11	Mapeado	Q9Y3A2	UTP11_HUMAN	Swiss-Prot (Reviewed)	Probable U3 small nucleolar RNA-associated protein 11	UTP11	UTP11L	253	https://www.uniprot.org/uniprotkb/Q9Y3A2/entry
+ADIPOQ	ADIPOQ	Mapeado	Q15848	ADIPO_HUMAN	Swiss-Prot (Reviewed)	Adiponectin	ADIPOQ	ACDC, ACRP30, APM1, GBP28	244	https://www.uniprot.org/uniprotkb/Q15848/entry
+HIF1A	HIF1A	Mapeado	Q16665	HIF1A_HUMAN	Swiss-Prot (Reviewed)	Hypoxia-inducible factor 1-alpha	HIF1A	BHLHE78, MOP1, PASD8	826	https://www.uniprot.org/uniprotkb/Q16665/entry
+IL6R	IL6R	Mapeado	P08887	IL6RA_HUMAN	Swiss-Prot (Reviewed)	Interleukin-6 receptor subunit alpha	IL6R		468	https://www.uniprot.org/uniprotkb/P08887/entry
+IFNGR1	IFNGR1	Mapeado	P15260	INGR1_HUMAN	Swiss-Prot (Reviewed)	Interferon gamma receptor 1	IFNGR1		489	https://www.uniprot.org/uniprotkb/P15260/entry
+PPARG	PPARG	Mapeado	P37231	PPARG_HUMAN	Swiss-Prot (Reviewed)	Peroxisome proliferator-activated receptor gamma	PPARG	NR1C3	505	https://www.uniprot.org/uniprotkb/P37231/entry
+GAPDH	GAPDH	Mapeado	P04406	G3P_HUMAN	Swiss-Prot (Reviewed)	Glyceraldehyde-3-phosphate dehydrogenase	GAPDH	GAPD	335	https://www.uniprot.org/uniprotkb/P04406/entry
+TNFAIP3	TNFAIP3	Mapeado	P21580	TNAP3_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor alpha-induced protein 3	TNFAIP3	OTUD7C	790	https://www.uniprot.org/uniprotkb/P21580/entry
+CCL3	CCL3	Mapeado	P10147	CCL3_HUMAN	Swiss-Prot (Reviewed)	C-C motif chemokine 3	CCL3	G0S19-1, MIP1A, SCYA3	92	https://www.uniprot.org/uniprotkb/P10147/entry
+IL18	IL18	Mapeado	Q14116	IL18_HUMAN	Swiss-Prot (Reviewed)	Interleukin-18	IL18	IGIF, IL1F4	193	https://www.uniprot.org/uniprotkb/Q14116/entry
+RIT1	RIT1	Mapeado	Q92963	RIT1_HUMAN	Swiss-Prot (Reviewed)	GTP-binding protein Rit1	RIT1	RIBB, RIT, ROC1	219	https://www.uniprot.org/uniprotkb/Q92963/entry
+BGLAP	BGLAP	Mapeado	P02818	OSTCN_HUMAN	Swiss-Prot (Reviewed)	Osteocalcin	BGLAP		100	https://www.uniprot.org/uniprotkb/P02818/entry
+IL10	IL10	Mapeado	P22301	IL10_HUMAN	Swiss-Prot (Reviewed)	Interleukin-10	IL10		178	https://www.uniprot.org/uniprotkb/P22301/entry
+PTGS1	PTGS1	Mapeado	P23219	PGH1_HUMAN	Swiss-Prot (Reviewed)	Prostaglandin G/H synthase 1	PTGS1	COX1	599	https://www.uniprot.org/uniprotkb/P23219/entry
+ITGAX	ITGAX	Mapeado	P20702	ITAX_HUMAN	Swiss-Prot (Reviewed)	Integrin alpha-X	ITGAX	CD11C	1163	https://www.uniprot.org/uniprotkb/P20702/entry
+NPEPPS	NPEPPS	Mapeado	P55786	PSA_HUMAN	Swiss-Prot (Reviewed)	Puromycin-sensitive aminopeptidase	NPEPPS	PSA	919	https://www.uniprot.org/uniprotkb/P55786/entry
+ITGAM	ITGAM	Mapeado	P11215	ITAM_HUMAN	Swiss-Prot (Reviewed)	Integrin alpha-M	ITGAM	CD11B, CR3A	1152	https://www.uniprot.org/uniprotkb/P11215/entry
+SOST	SOST	Mapeado	Q9BQB4	SOST_HUMAN	Swiss-Prot (Reviewed)	Sclerostin	SOST		213	https://www.uniprot.org/uniprotkb/Q9BQB4/entry
+DKK1	DKK1	Mapeado	O94907	DKK1_HUMAN	Swiss-Prot (Reviewed)	Dickkopf-related protein 1	DKK1		266	https://www.uniprot.org/uniprotkb/O94907/entry
+TNFSF11	TNFSF11	Mapeado	O14788	TNF11_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor ligand superfamily member 11	TNFSF11	OPGL, RANKL, TRANCE	317	https://www.uniprot.org/uniprotkb/O14788/entry
+SPP1	SPP1	Mapeado	P10451	OSTP_HUMAN	Swiss-Prot (Reviewed)	Osteopontin	SPP1	BNSP, OPN	314	https://www.uniprot.org/uniprotkb/P10451/entry
+IFNLR1	IFNLR1	Mapeado	Q8IU57	INLR1_HUMAN	Swiss-Prot (Reviewed)	Interferon lambda receptor 1	IFNLR1	IL28RA, LICR2	520	https://www.uniprot.org/uniprotkb/Q8IU57/entry
+STAT1	STAT1	Mapeado	P42224	STAT1_HUMAN	Swiss-Prot (Reviewed)	Signal transducer and activator of transcription 1-alpha/beta	STAT1		750	https://www.uniprot.org/uniprotkb/P42224/entry
+CD40	CD40	Mapeado	P25942	TNR5_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor receptor superfamily member 5	CD40	TNFRSF5	277	https://www.uniprot.org/uniprotkb/P25942/entry
+RSAD2	RSAD2	Mapeado	Q8WXG1	RSAD2_HUMAN	Swiss-Prot (Reviewed)	S-adenosylmethionine-dependent nucleotide dehydratase RSAD2	RSAD2	CIG5	361	https://www.uniprot.org/uniprotkb/Q8WXG1/entry
+IL15	IL15	Mapeado	P40933	IL15_HUMAN	Swiss-Prot (Reviewed)	Interleukin-15	IL15		162	https://www.uniprot.org/uniprotkb/P40933/entry
+MMP9	MMP9	Mapeado	P14780	MMP9_HUMAN	Swiss-Prot (Reviewed)	Matrix metalloproteinase-9	MMP9	CLG4B	707	https://www.uniprot.org/uniprotkb/P14780/entry
+NAMPT	NAMPT	Mapeado	P43490	NAMPT_HUMAN	Swiss-Prot (Reviewed)	Nicotinamide phosphoribosyltransferase	NAMPT	PBEF, PBEF1	491	https://www.uniprot.org/uniprotkb/P43490/entry
+VEGFA	VEGFA	Mapeado	P15692	VEGFA_HUMAN	Swiss-Prot (Reviewed)	Vascular endothelial growth factor A, long form	VEGFA	VEGF	395	https://www.uniprot.org/uniprotkb/P15692/entry
+IL37	IL37	Mapeado	Q9NZH6	IL37_HUMAN	Swiss-Prot (Reviewed)	Interleukin-37	IL37	FIL1Z, IL1F7, IL1H4, IL1RP1	218	https://www.uniprot.org/uniprotkb/Q9NZH6/entry
+CRP	CRP	Mapeado	P02741	CRP_HUMAN	Swiss-Prot (Reviewed)	C-reactive protein	CRP	PTX1	224	https://www.uniprot.org/uniprotkb/P02741/entry
+PTPN22	PTPN22	Mapeado	Q9Y2R2	PTN22_HUMAN	Swiss-Prot (Reviewed)	Tyrosine-protein phosphatase non-receptor type 22	PTPN22	PTPN8	807	https://www.uniprot.org/uniprotkb/Q9Y2R2/entry
+IL6	IL6	Mapeado	P05231	IL6_HUMAN	Swiss-Prot (Reviewed)	Interleukin-6	IL6	IFNB2	212	https://www.uniprot.org/uniprotkb/P05231/entry
+S100A8	S100A8	Mapeado	P05109	S10A8_HUMAN	Swiss-Prot (Reviewed)	Protein S100-A8	S100A8	CAGA, CFAG, MRP8	93	https://www.uniprot.org/uniprotkb/P05109/entry
+MMP3	MMP3	Mapeado	P08254	MMP3_HUMAN	Swiss-Prot (Reviewed)	Stromelysin-1	MMP3	STMY1	477	https://www.uniprot.org/uniprotkb/P08254/entry
+PTX3	PTX3	Mapeado	P26022	PTX3_HUMAN	Swiss-Prot (Reviewed)	Pentraxin-related protein PTX3	PTX3	TNFAIP5, TSG14	381	https://www.uniprot.org/uniprotkb/P26022/entry
+LEP	LEP	Mapeado	P41159	LEP_HUMAN	Swiss-Prot (Reviewed)	Leptin	LEP	OB, OBS	167	https://www.uniprot.org/uniprotkb/P41159/entry
+TNFSF15	TNFSF15	Mapeado	O95150	TNF15_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor ligand superfamily member 15	TNFSF15	TL1, TL1A, VEGI	251	https://www.uniprot.org/uniprotkb/O95150/entry
+IRAK1	IRAK1	Mapeado	P51617	IRAK1_HUMAN	Swiss-Prot (Reviewed)	Interleukin-1 receptor-associated kinase 1	IRAK1	IRAK	712	https://www.uniprot.org/uniprotkb/P51617/entry
+TLR9	TLR9	Mapeado	Q9NR96	TLR9_HUMAN	Swiss-Prot (Reviewed)	Toll-like receptor 9	TLR9		1032	https://www.uniprot.org/uniprotkb/Q9NR96/entry
+MIR146A	MIR146A	Não Encontrado no UniProtKB (Proteína)	-	-	-	Não codificante / miRNA / lncRNA / Pseudogene / Não encontrado	-	-	-	-
+PSMD7	PSMD7	Mapeado	P51665	PSMD7_HUMAN	Swiss-Prot (Reviewed)	26S proteasome non-ATPase regulatory subunit 7	PSMD7	MOV34L	324	https://www.uniprot.org/uniprotkb/P51665/entry
+TLR2	TLR2	Mapeado	O60603	TLR2_HUMAN	Swiss-Prot (Reviewed)	Toll-like receptor 2	TLR2	TIL4	784	https://www.uniprot.org/uniprotkb/O60603/entry
+PTGS2	PTGS2	Mapeado	P35354	PGH2_HUMAN	Swiss-Prot (Reviewed)	Prostaglandin G/H synthase 2	PTGS2	COX2	604	https://www.uniprot.org/uniprotkb/P35354/entry
+ICAM1	ICAM1	Mapeado	P05362	ICAM1_HUMAN	Swiss-Prot (Reviewed)	Intercellular adhesion molecule 1	ICAM1		532	https://www.uniprot.org/uniprotkb/P05362/entry
+IL7	IL7	Mapeado	P13232	IL7_HUMAN	Swiss-Prot (Reviewed)	Interleukin-7	IL7		177	https://www.uniprot.org/uniprotkb/P13232/entry
+TNFRSF10A	TNFRSF10A	Mapeado	O00220	TR10A_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor receptor superfamily member 10A	TNFRSF10A	APO2, DR4, TRAILR1	468	https://www.uniprot.org/uniprotkb/O00220/entry
+RETN	RETN	Mapeado	Q9HD89	RETN_HUMAN	Swiss-Prot (Reviewed)	Resistin	RETN	FIZZ3, HXCP1, RSTN	108	https://www.uniprot.org/uniprotkb/Q9HD89/entry
+IL2	IL2	Mapeado	P60568	IL2_HUMAN	Swiss-Prot (Reviewed)	Interleukin-2	IL2		153	https://www.uniprot.org/uniprotkb/P60568/entry
+IL4	IL4	Mapeado	P05112	IL4_HUMAN	Swiss-Prot (Reviewed)	Interleukin-4	IL4		153	https://www.uniprot.org/uniprotkb/P05112/entry
+IL5	IL5	Mapeado	P05113	IL5_HUMAN	Swiss-Prot (Reviewed)	Interleukin-5	IL5		134	https://www.uniprot.org/uniprotkb/P05113/entry
+CCRL2	CCRL2	Mapeado	O00421	CCRL2_HUMAN	Swiss-Prot (Reviewed)	C-C chemokine receptor-like 2	CCRL2	CCR11, CCR6, CKRX, CRAM, HCR	344	https://www.uniprot.org/uniprotkb/O00421/entry
+EGF	EGF	Mapeado	P01133	EGF_HUMAN	Swiss-Prot (Reviewed)	Pro-epidermal growth factor	EGF		1207	https://www.uniprot.org/uniprotkb/P01133/entry
+ALB	ALB	Mapeado	P02768	ALBU_HUMAN	Swiss-Prot (Reviewed)	Albumin	ALB		609	https://www.uniprot.org/uniprotkb/P02768/entry
+NOD2	NOD2	Mapeado	Q9HC29	NOD2_HUMAN	Swiss-Prot (Reviewed)	Nucleotide-binding oligomerization domain-containing protein 2	NOD2	CARD15	1040	https://www.uniprot.org/uniprotkb/Q9HC29/entry
+GPT	GPT	Mapeado	P24298	ALAT1_HUMAN	Swiss-Prot (Reviewed)	Alanine aminotransferase 1	GPT	AAT1, GPT1	496	https://www.uniprot.org/uniprotkb/P24298/entry
+IL13	IL13	Mapeado	P35225	IL13_HUMAN	Swiss-Prot (Reviewed)	Interleukin-13	IL13	NC30	146	https://www.uniprot.org/uniprotkb/P35225/entry
+CD28	CD28	Mapeado	P10747	CD28_HUMAN	Swiss-Prot (Reviewed)	T-cell-specific surface glycoprotein CD28	CD28		220	https://www.uniprot.org/uniprotkb/P10747/entry
+PRTN3	PRTN3	Mapeado	P24158	PRTN3_HUMAN	Swiss-Prot (Reviewed)	Myeloblastin	PRTN3	MBN	256	https://www.uniprot.org/uniprotkb/P24158/entry
+MMP1	MMP1	Mapeado	P03956	MMP1_HUMAN	Swiss-Prot (Reviewed)	Interstitial collagenase	MMP1	CLG	469	https://www.uniprot.org/uniprotkb/P03956/entry
+IFNA1	IFNA1	Mapeado	P0DY56	IFNA1_HUMAN	Swiss-Prot (Reviewed)	Interferon alpha-1	IFNA1		189	https://www.uniprot.org/uniprotkb/P0DY56/entry
+INS	INS	Mapeado	P01308	INS_HUMAN	Swiss-Prot (Reviewed)	Insulin	INS		110	https://www.uniprot.org/uniprotkb/P01308/entry
+ACE	ACE	Mapeado	P12821	ACE_HUMAN	Swiss-Prot (Reviewed)	Angiotensin-converting enzyme	ACE	DCP, DCP1	1306	https://www.uniprot.org/uniprotkb/P12821/entry
+IL1RN	IL1RN	Mapeado	P18510	IL1RA_HUMAN	Swiss-Prot (Reviewed)	Interleukin-1 receptor antagonist protein	IL1RN	IL1F3, IL1RA	177	https://www.uniprot.org/uniprotkb/P18510/entry
+CD40LG	CD40LG	Mapeado	P29965	CD40L_HUMAN	Swiss-Prot (Reviewed)	CD40 ligand	CD40LG	CD40L, TNFSF5, TRAP	261	https://www.uniprot.org/uniprotkb/P29965/entry
+TNFRSF1B	TNFRSF1B	Mapeado	P20333	TNR1B_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor receptor superfamily member 1B	TNFRSF1B	TNFBR, TNFR2	461	https://www.uniprot.org/uniprotkb/P20333/entry
+EDNRA	EDNRA	Mapeado	P25101	EDNRA_HUMAN	Swiss-Prot (Reviewed)	Endothelin-1 receptor	EDNRA	ETA, ETRA	427	https://www.uniprot.org/uniprotkb/P25101/entry
+PTH	PTH	Mapeado	P01270	PTHY_HUMAN	Swiss-Prot (Reviewed)	Parathyroid hormone	PTH		115	https://www.uniprot.org/uniprotkb/P01270/entry
+TYK2	TYK2	Mapeado	P29597	TYK2_HUMAN	Swiss-Prot (Reviewed)	Non-receptor tyrosine-protein kinase TYK2	TYK2		1187	https://www.uniprot.org/uniprotkb/P29597/entry
+NOS2	NOS2	Mapeado	P35228	NOS2_HUMAN	Swiss-Prot (Reviewed)	Nitric oxide synthase, inducible	NOS2	NOS2A	1153	https://www.uniprot.org/uniprotkb/P35228/entry
+FCGR2A	FCGR2A	Mapeado	P12318	FCG2A_HUMAN	Swiss-Prot (Reviewed)	Low affinity immunoglobulin gamma Fc region receptor II-a	FCGR2A	CD32, FCG2, FCGR2A1, IGFR2	317	https://www.uniprot.org/uniprotkb/P12318/entry
+SERPINE1	SERPINE1	Mapeado	P05121	PAI1_HUMAN	Swiss-Prot (Reviewed)	Plasminogen activator inhibitor 1	SERPINE1	PAI1, PLANH1	402	https://www.uniprot.org/uniprotkb/P05121/entry
+TGFB1	TGFB1	Mapeado	P01137	TGFB1_HUMAN	Swiss-Prot (Reviewed)	Transforming growth factor beta-1 proprotein	TGFB1	TGFB	390	https://www.uniprot.org/uniprotkb/P01137/entry
+TRAF5	TRAF5	Mapeado	O00463	TRAF5_HUMAN	Swiss-Prot (Reviewed)	TNF receptor-associated factor 5	TRAF5	RNF84	557	https://www.uniprot.org/uniprotkb/O00463/entry
+TRAF2	TRAF2	Mapeado	Q12933	TRAF2_HUMAN	Swiss-Prot (Reviewed)	TNF receptor-associated factor 2	TRAF2	TRAP3	501	https://www.uniprot.org/uniprotkb/Q12933/entry
+AREG	AREG	Mapeado	P15514	AREG_HUMAN	Swiss-Prot (Reviewed)	Amphiregulin	AREG	AREGB, SDGF	252	https://www.uniprot.org/uniprotkb/P15514/entry
+BRAF	BRAF	Mapeado	P15056	BRAF_HUMAN	Swiss-Prot (Reviewed)	Serine/threonine-protein kinase B-raf	BRAF	BRAF1, RAFB1	766	https://www.uniprot.org/uniprotkb/P15056/entry
+PHEX	PHEX	Mapeado	P78562	PHEX_HUMAN	Swiss-Prot (Reviewed)	Phosphate-regulating neutral endopeptidase PHEX	PHEX	PEX	749	https://www.uniprot.org/uniprotkb/P78562/entry
+KIR3DL2	KIR3DL2	Mapeado	P43630	KI3L2_HUMAN	Swiss-Prot (Reviewed)	Killer cell immunoglobulin-like receptor 3DL2	KIR3DL2	CD158K, NKAT4	455	https://www.uniprot.org/uniprotkb/P43630/entry
+SYT1	SYT1	Mapeado	P21579	SYT1_HUMAN	Swiss-Prot (Reviewed)	Synaptotagmin-1	SYT1	SVP65, SYT	422	https://www.uniprot.org/uniprotkb/P21579/entry
+COL1A1	COL1A1	Mapeado	P02452	CO1A1_HUMAN	Swiss-Prot (Reviewed)	Collagen alpha-1(I) chain	COL1A1		1464	https://www.uniprot.org/uniprotkb/P02452/entry
+FCGR3A	FCGR3A	Mapeado	P08637	FCG3A_HUMAN	Swiss-Prot (Reviewed)	Low affinity immunoglobulin gamma Fc region receptor III-A	FCGR3A	CD16A, FCG3, FCGR3, IGFR3	254	https://www.uniprot.org/uniprotkb/P08637/entry
+RUNX2	RUNX2	Mapeado	Q13950	RUNX2_HUMAN	Swiss-Prot (Reviewed)	Runt-related transcription factor 2	RUNX2	AML3, CBFA1, OSF2, PEBP2A	521	https://www.uniprot.org/uniprotkb/Q13950/entry
+SOCS1	SOCS1	Mapeado	O15524	SOCS1_HUMAN	Swiss-Prot (Reviewed)	Suppressor of cytokine signaling 1	SOCS1	SSI1, TIP3	211	https://www.uniprot.org/uniprotkb/O15524/entry
+MEFV	MEFV	Mapeado	O15553	MEFV_HUMAN	Swiss-Prot (Reviewed)	Pyrin	MEFV	MEF, TRIM20	781	https://www.uniprot.org/uniprotkb/O15553/entry
+RPS6KB1	RPS6KB1	Mapeado	P23443	KS6B1_HUMAN	Swiss-Prot (Reviewed)	Ribosomal protein S6 kinase beta-1	RPS6KB1	STK14A	525	https://www.uniprot.org/uniprotkb/P23443/entry
+TNIP1	TNIP1	Mapeado	Q15025	TNIP1_HUMAN	Swiss-Prot (Reviewed)	TNFAIP3-interacting protein 1	TNIP1	KIAA0113, NAF1	636	https://www.uniprot.org/uniprotkb/Q15025/entry
+TRAF4	TRAF4	Mapeado	Q9BUZ4	TRAF4_HUMAN	Swiss-Prot (Reviewed)	TNF receptor-associated factor 4	TRAF4	CART1, MLN62, RNF83	470	https://www.uniprot.org/uniprotkb/Q9BUZ4/entry
+BMP2	BMP2	Mapeado	P12643	BMP2_HUMAN	Swiss-Prot (Reviewed)	Bone morphogenetic protein 2	BMP2	BMP2A	396	https://www.uniprot.org/uniprotkb/P12643/entry
+MCAM	MCAM	Mapeado	P43121	MUC18_HUMAN	Swiss-Prot (Reviewed)	Cell surface glycoprotein MUC18	MCAM	MUC18	646	https://www.uniprot.org/uniprotkb/P43121/entry
+HHAT	HHAT	Mapeado	Q5VTY9	HHAT_HUMAN	Swiss-Prot (Reviewed)	Protein-cysteine N-palmitoyltransferase HHAT	HHAT	MART2, SKI1	493	https://www.uniprot.org/uniprotkb/Q5VTY9/entry
+IRS1	IRS1	Mapeado	P35568	IRS1_HUMAN	Swiss-Prot (Reviewed)	Insulin receptor substrate 1	IRS1		1242	https://www.uniprot.org/uniprotkb/P35568/entry
+GATA3	GATA3	Mapeado	P23771	GATA3_HUMAN	Swiss-Prot (Reviewed)	Trans-acting T-cell-specific transcription factor GATA-3	GATA3		443	https://www.uniprot.org/uniprotkb/P23771/entry
+IL1F10	IL1F10	Mapeado	Q8WWZ1	IL1FA_HUMAN	Swiss-Prot (Reviewed)	Interleukin-1 family member 10	IL1F10	FIL1T, IL1HY2, IL38	152	https://www.uniprot.org/uniprotkb/Q8WWZ1/entry
+HSPA5	HSPA5	Mapeado	P11021	BIP_HUMAN	Swiss-Prot (Reviewed)	Endoplasmic reticulum chaperone BiP	HSPA5	GRP78	654	https://www.uniprot.org/uniprotkb/P11021/entry
+IFIH1	IFIH1	Mapeado	Q9BYX4	IFIH1_HUMAN	Swiss-Prot (Reviewed)	Interferon-induced helicase C domain-containing protein 1	IFIH1	MDA5, RH116	1025	https://www.uniprot.org/uniprotkb/Q9BYX4/entry
+RBM45	RBM45	Mapeado	Q8IUH3	RBM45_HUMAN	Swiss-Prot (Reviewed)	RNA-binding protein 45	RBM45	DRB1, DRBP1	476	https://www.uniprot.org/uniprotkb/Q8IUH3/entry
+TNFSF10	TNFSF10	Mapeado	P50591	TNF10_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor ligand superfamily member 10	TNFSF10	APO2L, TRAIL	281	https://www.uniprot.org/uniprotkb/P50591/entry
+GEM	GEM	Mapeado	P55040	GEM_HUMAN	Swiss-Prot (Reviewed)	GTP-binding protein GEM	GEM	KIR	296	https://www.uniprot.org/uniprotkb/P55040/entry
+CD38	CD38	Mapeado	P28907	CD38_HUMAN	Swiss-Prot (Reviewed)	ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1	CD38		300	https://www.uniprot.org/uniprotkb/P28907/entry
+CUX1	CUX1	Mapeado	P39880	CUX1_HUMAN	Swiss-Prot (Reviewed)	Homeobox protein cut-like 1	CUX1	CUTL1	1505	https://www.uniprot.org/uniprotkb/P39880/entry
+WNK1	WNK1	Mapeado	Q9H4A3	WNK1_HUMAN	Swiss-Prot (Reviewed)	Serine/threonine-protein kinase WNK1	WNK1	HSN2, KDP, KIAA0344, PRKWNK1	2382	https://www.uniprot.org/uniprotkb/Q9H4A3/entry
+AQP1	AQP1	Mapeado	P29972	AQP1_HUMAN	Swiss-Prot (Reviewed)	Aquaporin-1	AQP1	CHIP28	269	https://www.uniprot.org/uniprotkb/P29972/entry
+SAA1	SAA1	Mapeado	P0DJI8	SAA1_HUMAN	Swiss-Prot (Reviewed)	Serum amyloid A-1 protein	SAA1		122	https://www.uniprot.org/uniprotkb/P0DJI8/entry
+ITGAL	ITGAL	Mapeado	P20701	ITAL_HUMAN	Swiss-Prot (Reviewed)	Integrin alpha-L	ITGAL	CD11A	1170	https://www.uniprot.org/uniprotkb/P20701/entry
+DLAT	DLAT	Mapeado	P10515	ODP2_HUMAN	Swiss-Prot (Reviewed)	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial	DLAT	DLTA	647	https://www.uniprot.org/uniprotkb/P10515/entry
+CYP1A1	CYP1A1	Mapeado	P04798	CP1A1_HUMAN	Swiss-Prot (Reviewed)	Cytochrome P450 1A1	CYP1A1		512	https://www.uniprot.org/uniprotkb/P04798/entry
+TIMP1	TIMP1	Mapeado	P01033	TIMP1_HUMAN	Swiss-Prot (Reviewed)	Metalloproteinase inhibitor 1	TIMP1	CLGI, TIMP	207	https://www.uniprot.org/uniprotkb/P01033/entry
+PRF1	PRF1	Mapeado	P14222	PERF_HUMAN	Swiss-Prot (Reviewed)	Perforin-1	PRF1	PFP	555	https://www.uniprot.org/uniprotkb/P14222/entry
+ERN1	ERN1	Mapeado	O75460	ERN1_HUMAN	Swiss-Prot (Reviewed)	Serine/threonine-protein kinase/endoribonuclease IRE1	ERN1	IRE1	977	https://www.uniprot.org/uniprotkb/O75460/entry
+SEC14L2	SEC14L2	Mapeado	O76054	S14L2_HUMAN	Swiss-Prot (Reviewed)	SEC14-like protein 2	SEC14L2	C22orf6, KIAA1186, KIAA1658	403	https://www.uniprot.org/uniprotkb/O76054/entry
+UQCR10	UQCR10	Mapeado	Q9UDW1	QCR9_HUMAN	Swiss-Prot (Reviewed)	Cytochrome b-c1 complex subunit 9	UQCR10	UCRC	63	https://www.uniprot.org/uniprotkb/Q9UDW1/entry
+MIR21	MIR21	Não Encontrado no UniProtKB (Proteína)	-	-	-	Não codificante / miRNA / lncRNA / Pseudogene / Não encontrado	-	-	-	-
+CAST	CAST	Mapeado	P20810	ICAL_HUMAN	Swiss-Prot (Reviewed)	Calpastatin	CAST		708	https://www.uniprot.org/uniprotkb/P20810/entry
+PDLIM7	PDLIM7	Mapeado	Q9NR12	PDLI7_HUMAN	Swiss-Prot (Reviewed)	PDZ and LIM domain protein 7	PDLIM7	ENIGMA	457	https://www.uniprot.org/uniprotkb/Q9NR12/entry
+VDR	VDR	Mapeado	P11473	VDR_HUMAN	Swiss-Prot (Reviewed)	Vitamin D3 receptor	VDR	NR1I1	427	https://www.uniprot.org/uniprotkb/P11473/entry
+UBE2L3	UBE2L3	Mapeado	P68036	UB2L3_HUMAN	Swiss-Prot (Reviewed)	Ubiquitin-conjugating enzyme E2 L3	UBE2L3	UBCE7, UBCH7	154	https://www.uniprot.org/uniprotkb/P68036/entry
+CREM	CREM	Mapeado	Q03060	CREM_HUMAN	Swiss-Prot (Reviewed)	cAMP-responsive element modulator	CREM		345	https://www.uniprot.org/uniprotkb/Q03060/entry
+PPARGC1B	PPARGC1B	Mapeado	Q86YN6	PRGC2_HUMAN	Swiss-Prot (Reviewed)	Peroxisome proliferator-activated receptor gamma coactivator 1-beta	PPARGC1B	PERC, PGC1, PGC1B, PPARGC1	1023	https://www.uniprot.org/uniprotkb/Q86YN6/entry
+MBL2	MBL2	Mapeado	P11226	MBL2_HUMAN	Swiss-Prot (Reviewed)	Mannose-binding protein C	MBL2	COLEC1, MBL	248	https://www.uniprot.org/uniprotkb/P11226/entry
+ADGRL2	ADGRL2	Mapeado	O95490	AGRL2_HUMAN	Swiss-Prot (Reviewed)	Adhesion G protein-coupled receptor L2	ADGRL2	KIAA0786, LEC1, LPHH1, LPHN2	1459	https://www.uniprot.org/uniprotkb/O95490/entry
+LINC01185	LINC01185	Não Encontrado no UniProtKB (Proteína)	-	-	-	Não codificante / miRNA / lncRNA / Pseudogene / Não encontrado	-	-	-	-
+TRBV20OR9-2	TRBV20OR9-2	Mapeado	A0A075B6H5	A0A075B6H5_HUMAN	TrEMBL (Unreviewed)	T cell receptor beta variable 20/OR9-2 (non-functional)	TRBV20OR9-2		111	https://www.uniprot.org/uniprotkb/A0A075B6H5/entry
+SERPINA1	SERPINA1	Mapeado	P01009	A1AT_HUMAN	Swiss-Prot (Reviewed)	Alpha-1-antitrypsin	SERPINA1	AAT, PI	418	https://www.uniprot.org/uniprotkb/P01009/entry
+HLA-A	HLA-A	Mapeado	P04439	HLAA_HUMAN	Swiss-Prot (Reviewed)	HLA class I histocompatibility antigen, A alpha chain	HLA-A	HLAA	365	https://www.uniprot.org/uniprotkb/P04439/entry
+HLA-C	HLA-C	Mapeado	P10321	HLAC_HUMAN	Swiss-Prot (Reviewed)	HLA class I histocompatibility antigen, C alpha chain	HLA-C	HLAC	366	https://www.uniprot.org/uniprotkb/P10321/entry
+HLA-DRB1	HLA-DRB1	Mapeado	P01911	DRB1_HUMAN	Swiss-Prot (Reviewed)	HLA class II histocompatibility antigen, DRB1 beta chain	HLA-DRB1		266	https://www.uniprot.org/uniprotkb/P01911/entry
+KIR2DS1	KIR2DS1	Mapeado	Q14954	KI2S1_HUMAN	Swiss-Prot (Reviewed)	Killer cell immunoglobulin-like receptor 2DS1	KIR2DS1	CD158H	304	https://www.uniprot.org/uniprotkb/Q14954/entry
+IL36RN	IL36RN	Mapeado	Q9UBH0	I36RA_HUMAN	Swiss-Prot (Reviewed)	Interleukin-36 receptor antagonist protein	IL36RN	FIL1D, IL1F5, IL1HY1, IL1L1, IL1RP3	155	https://www.uniprot.org/uniprotkb/Q9UBH0/entry
+MT-CO2 / COX2	MT-CO2	Mapeado	P00403	COX2_HUMAN	Swiss-Prot (Reviewed)	Cytochrome c oxidase subunit 2	MT-CO2	COII, COX2, COXII, MTCO2	227	https://www.uniprot.org/uniprotkb/P00403/entry
+MT-CO2 / COX2	COX2	Mapeado	P35354	PGH2_HUMAN	Swiss-Prot (Reviewed)	Prostaglandin G/H synthase 2	PTGS2	COX2	604	https://www.uniprot.org/uniprotkb/P35354/entry
+RPS19	RPS19	Mapeado	P39019	RS19_HUMAN	Swiss-Prot (Reviewed)	Small ribosomal subunit protein eS19	RPS19		145	https://www.uniprot.org/uniprotkb/P39019/entry
+CD3E	CD3E	Mapeado	P07766	CD3E_HUMAN	Swiss-Prot (Reviewed)	T-cell surface glycoprotein CD3 epsilon chain	CD3E	T3E	207	https://www.uniprot.org/uniprotkb/P07766/entry
+TYMP	TYMP	Mapeado	P19971	TYPH_HUMAN	Swiss-Prot (Reviewed)	Thymidine phosphorylase	TYMP	ECGF1	482	https://www.uniprot.org/uniprotkb/P19971/entry
+SF3B1	SF3B1	Mapeado	O75533	SF3B1_HUMAN	Swiss-Prot (Reviewed)	Splicing factor 3B subunit 1	SF3B1	SAP155	1304	https://www.uniprot.org/uniprotkb/O75533/entry
+SMARCA4	SMARCA4	Mapeado	P51532	SMCA4_HUMAN	Swiss-Prot (Reviewed)	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 4	SMARCA4	BAF190A, BRG1, SNF2B, SNF2L4	1647	https://www.uniprot.org/uniprotkb/P51532/entry
+RPL15	RPL15	Mapeado	P61313	RL15_HUMAN	Swiss-Prot (Reviewed)	Large ribosomal subunit protein eL15	RPL15	EC45	204	https://www.uniprot.org/uniprotkb/P61313/entry
+SH3BGRL3	SH3BGRL3	Mapeado	Q9H299	SH3L3_HUMAN	Swiss-Prot (Reviewed)	SH3 domain-binding glutamic acid-rich-like protein 3	SH3BGRL3		93	https://www.uniprot.org/uniprotkb/Q9H299/entry
+PLA2G4D	PLA2G4D	Mapeado	Q86XP0	PA24D_HUMAN	Swiss-Prot (Reviewed)	Cytosolic phospholipase A2 delta	PLA2G4D		818	https://www.uniprot.org/uniprotkb/Q86XP0/entry
+BNIP3L	BNIP3L	Mapeado	O60238	BNI3L_HUMAN	Swiss-Prot (Reviewed)	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like	BNIP3L	BNIP3A, BNIP3H, NIX	219	https://www.uniprot.org/uniprotkb/O60238/entry
+ERP44	ERP44	Mapeado	Q9BS26	ERP44_HUMAN	Swiss-Prot (Reviewed)	Endoplasmic reticulum resident protein 44	ERP44	KIAA0573, TXNDC4	406	https://www.uniprot.org/uniprotkb/Q9BS26/entry
+MSN	MSN	Mapeado	P26038	MOES_HUMAN	Swiss-Prot (Reviewed)	Moesin	MSN		577	https://www.uniprot.org/uniprotkb/P26038/entry
+IFI16	IFI16	Mapeado	Q16666	IF16_HUMAN	Swiss-Prot (Reviewed)	Gamma-interferon-inducible protein 16	IFI16	IFNGIP1	785	https://www.uniprot.org/uniprotkb/Q16666/entry
+SPCS3	SPCS3	Mapeado	P61009	SPCS3_HUMAN	Swiss-Prot (Reviewed)	Signal peptidase complex subunit 3	SPCS3	SPC22	180	https://www.uniprot.org/uniprotkb/P61009/entry
+PSMC2	PSMC2	Mapeado	P35998	PRS7_HUMAN	Swiss-Prot (Reviewed)	26S proteasome regulatory subunit 7	PSMC2	MSS1	433	https://www.uniprot.org/uniprotkb/P35998/entry
+CCND3	CCND3	Mapeado	P30281	CCND3_HUMAN	Swiss-Prot (Reviewed)	G1/S-specific cyclin-D3	CCND3		292	https://www.uniprot.org/uniprotkb/P30281/entry
+MCL1	MCL1	Mapeado	Q07820	MCL1_HUMAN	Swiss-Prot (Reviewed)	Induced myeloid leukemia cell differentiation protein Mcl-1	MCL1	BCL2L3	350	https://www.uniprot.org/uniprotkb/Q07820/entry
+MTHFR	MTHFR	Mapeado	P42898	MTHR_HUMAN	Swiss-Prot (Reviewed)	Methylenetetrahydrofolate reductase (NADPH)	MTHFR		656	https://www.uniprot.org/uniprotkb/P42898/entry
+TMBIM6	TMBIM6	Mapeado	P55061	BI1_HUMAN	Swiss-Prot (Reviewed)	Bax inhibitor 1	TMBIM6	BI1, TEGT	237	https://www.uniprot.org/uniprotkb/P55061/entry
+SAMD9	SAMD9	Mapeado	Q5K651	SAMD9_HUMAN	Swiss-Prot (Reviewed)	Sterile alpha motif domain-containing protein 9	SAMD9	C7orf5, DRIF1, KIAA2004, OEF1	1589	https://www.uniprot.org/uniprotkb/Q5K651/entry
+MIX23	MIX23	Mapeado	Q4VC31	MIX23_HUMAN	Swiss-Prot (Reviewed)	Protein MIX23	MIX23	CCDC58	144	https://www.uniprot.org/uniprotkb/Q4VC31/entry
+SF3B3	SF3B3	Mapeado	Q15393	SF3B3_HUMAN	Swiss-Prot (Reviewed)	Splicing factor 3B subunit 3	SF3B3	KIAA0017, SAP130	1217	https://www.uniprot.org/uniprotkb/Q15393/entry
+CCR2	CCR2	Mapeado	P41597	CCR2_HUMAN	Swiss-Prot (Reviewed)	C-C chemokine receptor type 2	CCR2	CMKBR2	374	https://www.uniprot.org/uniprotkb/P41597/entry
+PFKL	PFKL	Mapeado	P17858	PFKAL_HUMAN	Swiss-Prot (Reviewed)	ATP-dependent 6-phosphofructokinase, liver type	PFKL		780	https://www.uniprot.org/uniprotkb/P17858/entry
+YOD1	YOD1	Mapeado	Q5VVQ6	OTU1_HUMAN	Swiss-Prot (Reviewed)	Ubiquitin thioesterase OTU1	YOD1	DUBA8, HIN7, OTUD2	348	https://www.uniprot.org/uniprotkb/Q5VVQ6/entry
+CYCS	CYCS	Mapeado	P99999	CYC_HUMAN	Swiss-Prot (Reviewed)	Cytochrome c	CYCS	CYC	105	https://www.uniprot.org/uniprotkb/P99999/entry
+CD52	CD52	Mapeado	P31358	CD52_HUMAN	Swiss-Prot (Reviewed)	CAMPATH-1 antigen	CD52	CDW52, HE5	61	https://www.uniprot.org/uniprotkb/P31358/entry
+CASP10	CASP10	Mapeado	Q92851	CASPA_HUMAN	Swiss-Prot (Reviewed)	Caspase-10	CASP10	MCH4	521	https://www.uniprot.org/uniprotkb/Q92851/entry
+CD36	CD36	Mapeado	P16671	CD36_HUMAN	Swiss-Prot (Reviewed)	Platelet glycoprotein 4	CD36	GP3B, GP4	472	https://www.uniprot.org/uniprotkb/P16671/entry
+ZC3H12A	ZC3H12A	Mapeado	Q5D1E8	ZC12A_HUMAN	Swiss-Prot (Reviewed)	Endoribonuclease ZC3H12A	ZC3H12A	MCPIP, MCPIP1	599	https://www.uniprot.org/uniprotkb/Q5D1E8/entry
+ZFP36	ZFP36	Mapeado	P26651	TTP_HUMAN	Swiss-Prot (Reviewed)	mRNA decay activator protein ZFP36	ZFP36	G0S24, NUP475, RNF162A, TIS11A, TTP	326	https://www.uniprot.org/uniprotkb/P26651/entry
+WDR1	WDR1	Mapeado	O75083	WDR1_HUMAN	Swiss-Prot (Reviewed)	WD repeat-containing protein 1	WDR1		606	https://www.uniprot.org/uniprotkb/O75083/entry
+MX1	MX1	Mapeado	P20591	MX1_HUMAN	Swiss-Prot (Reviewed)	Interferon-induced GTP-binding protein Mx1	MX1		662	https://www.uniprot.org/uniprotkb/P20591/entry
+SIAH1	SIAH1	Mapeado	Q8IUQ4	SIAH1_HUMAN	Swiss-Prot (Reviewed)	E3 ubiquitin-protein ligase SIAH1	SIAH1	HUMSIAH	282	https://www.uniprot.org/uniprotkb/Q8IUQ4/entry
+ZNF316	ZNF316	Mapeado	A6NFI3	ZN316_HUMAN	Swiss-Prot (Reviewed)	Zinc finger protein 316	ZNF316		1004	https://www.uniprot.org/uniprotkb/A6NFI3/entry
+TPT1	TPT1	Mapeado	P13693	TCTP_HUMAN	Swiss-Prot (Reviewed)	Translationally-controlled tumor protein	TPT1		172	https://www.uniprot.org/uniprotkb/P13693/entry
+NT5C3A	NT5C3A	Mapeado	Q9H0P0	5NT3A_HUMAN	Swiss-Prot (Reviewed)	Cytosolic 5'-nucleotidase 3A	NT5C3A	NT5C3, P5N1, UMPH1	336	https://www.uniprot.org/uniprotkb/Q9H0P0/entry
+ATOX1	ATOX1	Mapeado	O00244	ATOX1_HUMAN	Swiss-Prot (Reviewed)	Copper transport protein ATOX1	ATOX1	HAH1	68	https://www.uniprot.org/uniprotkb/O00244/entry
+TALDO1	TALDO1	Mapeado	P37837	TALDO_HUMAN	Swiss-Prot (Reviewed)	Transaldolase	TALDO1	TAL, TALDO, TALDOR	337	https://www.uniprot.org/uniprotkb/P37837/entry
+RAC1	RAC1	Mapeado	P63000	RAC1_HUMAN	Swiss-Prot (Reviewed)	Ras-related C3 botulinum toxin substrate 1	RAC1	TC25	192	https://www.uniprot.org/uniprotkb/P63000/entry
+RPL36AL	RPL36AL	Mapeado	Q969Q0	RL36L_HUMAN	Swiss-Prot (Reviewed)	Ribosomal protein eL42-like	RPL36AL		106	https://www.uniprot.org/uniprotkb/Q969Q0/entry
+NMI	NMI	Mapeado	Q13287	NMI_HUMAN	Swiss-Prot (Reviewed)	N-myc-interactor	NMI		307	https://www.uniprot.org/uniprotkb/Q13287/entry
+ARHGEF3	ARHGEF3	Mapeado	Q9NR81	ARHG3_HUMAN	Swiss-Prot (Reviewed)	Rho guanine nucleotide exchange factor 3	ARHGEF3		526	https://www.uniprot.org/uniprotkb/Q9NR81/entry
+DNAJA2	DNAJA2	Mapeado	O60884	DNJA2_HUMAN	Swiss-Prot (Reviewed)	DnaJ homolog subfamily A member 2	DNAJA2	CPR3, HIRIP4	412	https://www.uniprot.org/uniprotkb/O60884/entry
+PPARD	PPARD	Mapeado	Q03181	PPARD_HUMAN	Swiss-Prot (Reviewed)	Peroxisome proliferator-activated receptor delta	PPARD	NR1C2, PPARB	441	https://www.uniprot.org/uniprotkb/Q03181/entry
+TPST2	TPST2	Mapeado	O60704	TPST2_HUMAN	Swiss-Prot (Reviewed)	Protein-tyrosine sulfotransferase 2	TPST2		377	https://www.uniprot.org/uniprotkb/O60704/entry
+LILRB2	LILRB2	Mapeado	Q8N423	LIRB2_HUMAN	Swiss-Prot (Reviewed)	Leukocyte immunoglobulin-like receptor subfamily B member 2	LILRB2	ILT4, LIR2, MIR10	597	https://www.uniprot.org/uniprotkb/Q8N423/entry
+SSR1	SSR1	Mapeado	P43307	SSRA_HUMAN	Swiss-Prot (Reviewed)	Translocon-associated protein subunit alpha	SSR1	TRAPA	286	https://www.uniprot.org/uniprotkb/P43307/entry
+AKAP13	AKAP13	Mapeado	Q12802	AKP13_HUMAN	Swiss-Prot (Reviewed)	A-kinase anchor protein 13	AKAP13	BRX, HT31, LBC	2813	https://www.uniprot.org/uniprotkb/Q12802/entry
+RPS21	RPS21	Mapeado	P63220	RS21_HUMAN	Swiss-Prot (Reviewed)	Small ribosomal subunit protein eS21	RPS21		83	https://www.uniprot.org/uniprotkb/P63220/entry
+RPL7	RPL7	Mapeado	P18124	RL7_HUMAN	Swiss-Prot (Reviewed)	Large ribosomal subunit protein uL30	RPL7		248	https://www.uniprot.org/uniprotkb/P18124/entry
+XAF1	XAF1	Mapeado	Q6GPH4	XAF1_HUMAN	Swiss-Prot (Reviewed)	XIAP-associated factor 1	XAF1	BIRC4BP, XIAPAF1	301	https://www.uniprot.org/uniprotkb/Q6GPH4/entry
+VIM	VIM	Mapeado	P08670	VIME_HUMAN	Swiss-Prot (Reviewed)	Vimentin	VIM		466	https://www.uniprot.org/uniprotkb/P08670/entry
+TRIM69	TRIM69	Mapeado	Q86WT6	TRI69_HUMAN	Swiss-Prot (Reviewed)	E3 ubiquitin-protein ligase TRIM69	TRIM69	RNF36	500	https://www.uniprot.org/uniprotkb/Q86WT6/entry
+SERPINB1	SERPINB1	Mapeado	P30740	ILEU_HUMAN	Swiss-Prot (Reviewed)	Leukocyte elastase inhibitor	SERPINB1	ELANH2, MNEI, PI2	379	https://www.uniprot.org/uniprotkb/P30740/entry
+RPS7	RPS7	Mapeado	P62081	RS7_HUMAN	Swiss-Prot (Reviewed)	Small ribosomal subunit protein eS7	RPS7		194	https://www.uniprot.org/uniprotkb/P62081/entry
+CSNK1A1	CSNK1A1	Mapeado	P48729	KC1A_HUMAN	Swiss-Prot (Reviewed)	Casein kinase I isoform alpha	CSNK1A1		337	https://www.uniprot.org/uniprotkb/P48729/entry
+GLUL	GLUL	Mapeado	P15104	GLNA_HUMAN	Swiss-Prot (Reviewed)	Glutamine synthetase	GLUL	GLNS	373	https://www.uniprot.org/uniprotkb/P15104/entry
+PYGL	PYGL	Mapeado	P06737	PYGL_HUMAN	Swiss-Prot (Reviewed)	Glycogen phosphorylase, liver form	PYGL		847	https://www.uniprot.org/uniprotkb/P06737/entry
+NCOA7	NCOA7	Mapeado	Q8NI08	NCOA7_HUMAN	Swiss-Prot (Reviewed)	Nuclear receptor coactivator 7	NCOA7	ERAP140, ESNA1	942	https://www.uniprot.org/uniprotkb/Q8NI08/entry
+EIF5B	EIF5B	Mapeado	O60841	IF2P_HUMAN	Swiss-Prot (Reviewed)	Eukaryotic translation initiation factor 5B	EIF5B	IF2, KIAA0741	1220	https://www.uniprot.org/uniprotkb/O60841/entry
+MRPS23	MRPS23	Mapeado	Q9Y3D9	RT23_HUMAN	Swiss-Prot (Reviewed)	Small ribosomal subunit protein mS23	MRPS23		190	https://www.uniprot.org/uniprotkb/Q9Y3D9/entry
+CDC42BPB	CDC42BPB	Mapeado	Q9Y5S2	MRCKB_HUMAN	Swiss-Prot (Reviewed)	Serine/threonine-protein kinase MRCK beta	CDC42BPB	KIAA1124	1711	https://www.uniprot.org/uniprotkb/Q9Y5S2/entry
+CXCL16	CXCL16	Mapeado	Q9H2A7	CXL16_HUMAN	Swiss-Prot (Reviewed)	C-X-C motif chemokine 16	CXCL16	SCYB16, SRPSOX	254	https://www.uniprot.org/uniprotkb/Q9H2A7/entry
+GOLIM4	GOLIM4	Mapeado	O00461	GOLI4_HUMAN	Swiss-Prot (Reviewed)	Golgi integral membrane protein 4	GOLIM4	GIMPC, GOLPH4, GPP130	696	https://www.uniprot.org/uniprotkb/O00461/entry
+NDUFS1	NDUFS1	Mapeado	P28331	NDUS1_HUMAN	Swiss-Prot (Reviewed)	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial	NDUFS1		727	https://www.uniprot.org/uniprotkb/P28331/entry
+ENO1	ENO1	Mapeado	P06733	ENOA_HUMAN	Swiss-Prot (Reviewed)	Alpha-enolase	ENO1	ENO1L1, MBPB1, MPB1	434	https://www.uniprot.org/uniprotkb/P06733/entry
+DNAJB6	DNAJB6	Mapeado	O75190	DNJB6_HUMAN	Swiss-Prot (Reviewed)	DnaJ homolog subfamily B member 6	DNAJB6	HSJ2, MRJ, MSJ1	326	https://www.uniprot.org/uniprotkb/O75190/entry
+SMOX	SMOX	Mapeado	Q9NWM0	SMOX_HUMAN	Swiss-Prot (Reviewed)	Spermine oxidase	SMOX	C20orf16, SMO	555	https://www.uniprot.org/uniprotkb/Q9NWM0/entry
+TOMM5	TOMM5	Mapeado	Q8N4H5	TOM5_HUMAN	Swiss-Prot (Reviewed)	Mitochondrial import receptor subunit TOM5 homolog	TOMM5	C9orf105, TOM5	51	https://www.uniprot.org/uniprotkb/Q8N4H5/entry
+HK2	HK2	Mapeado	P52789	HXK2_HUMAN	Swiss-Prot (Reviewed)	Hexokinase-2	HK2		917	https://www.uniprot.org/uniprotkb/P52789/entry
+GBP5	GBP5	Mapeado	Q96PP8	GBP5_HUMAN	Swiss-Prot (Reviewed)	Guanylate-binding protein 5	GBP5		586	https://www.uniprot.org/uniprotkb/Q96PP8/entry
+CCL2	CCL2	Mapeado	P13500	CCL2_HUMAN	Swiss-Prot (Reviewed)	C-C motif chemokine 2	CCL2	MCP1, SCYA2	99	https://www.uniprot.org/uniprotkb/P13500/entry
+CASP1	CASP1	Mapeado	P29466	CASP1_HUMAN	Swiss-Prot (Reviewed)	Caspase-1	CASP1	IL1BC, IL1BCE	404	https://www.uniprot.org/uniprotkb/P29466/entry
+PIK3CD	PIK3CD	Mapeado	O00329	PK3CD_HUMAN	Swiss-Prot (Reviewed)	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform	PIK3CD		1044	https://www.uniprot.org/uniprotkb/O00329/entry
+PGK1	PGK1	Mapeado	P00558	PGK1_HUMAN	Swiss-Prot (Reviewed)	Phosphoglycerate kinase 1	PGK1	PGKA	417	https://www.uniprot.org/uniprotkb/P00558/entry
+LAMP1	LAMP1	Mapeado	P11279	LAMP1_HUMAN	Swiss-Prot (Reviewed)	Lysosome-associated membrane glycoprotein 1	LAMP1		417	https://www.uniprot.org/uniprotkb/P11279/entry
+LAMP2	LAMP2	Mapeado	P13473	LAMP2_HUMAN	Swiss-Prot (Reviewed)	Lysosome-associated membrane glycoprotein 2	LAMP2		410	https://www.uniprot.org/uniprotkb/P13473/entry
+ATG5	ATG5	Mapeado	Q9H1Y0	ATG5_HUMAN	Swiss-Prot (Reviewed)	Autophagy protein 5	ATG5	APG5L, ASP	275	https://www.uniprot.org/uniprotkb/Q9H1Y0/entry
+NLRP3	NLRP3	Mapeado	Q96P20	NLRP3_HUMAN	Swiss-Prot (Reviewed)	NACHT, LRR and PYD domains-containing protein 3	NLRP3	C1orf7, CIAS1, NALP3, PYPAF1	1036	https://www.uniprot.org/uniprotkb/Q96P20/entry
+PINK1	PINK1	Mapeado	Q9BXM7	PINK1_HUMAN	Swiss-Prot (Reviewed)	Serine/threonine-protein kinase PINK1, mitochondrial	PINK1		581	https://www.uniprot.org/uniprotkb/Q9BXM7/entry
+XBP1	XBP1	Mapeado	P17861	XBP1_HUMAN	Swiss-Prot (Reviewed)	X-box-binding protein 1	XBP1	TREB5, XBP2	261	https://www.uniprot.org/uniprotkb/P17861/entry
+SEC24B	SEC24B	Mapeado	O95487	SC24B_HUMAN	Swiss-Prot (Reviewed)	Protein transport protein Sec24B	SEC24B		1268	https://www.uniprot.org/uniprotkb/O95487/entry
+CD14	CD14	Mapeado	P08571	CD14_HUMAN	Swiss-Prot (Reviewed)	Monocyte differentiation antigen CD14	CD14		375	https://www.uniprot.org/uniprotkb/P08571/entry
+CARD9	CARD9	Mapeado	Q9H257	CARD9_HUMAN	Swiss-Prot (Reviewed)	Caspase recruitment domain-containing protein 9	CARD9		536	https://www.uniprot.org/uniprotkb/Q9H257/entry
+GPR35	GPR35	Mapeado	Q9HC97	GPR35_HUMAN	Swiss-Prot (Reviewed)	G protein-coupled receptor 35	GPR35		309	https://www.uniprot.org/uniprotkb/Q9HC97/entry
+ADCY7	ADCY7	Mapeado	P51828	ADCY7_HUMAN	Swiss-Prot (Reviewed)	Adenylate cyclase type 7	ADCY7	KIAA0037	1080	https://www.uniprot.org/uniprotkb/P51828/entry
+ATG16L1	ATG16L1	Mapeado	Q676U5	A16L1_HUMAN	Swiss-Prot (Reviewed)	Autophagy-related protein 16-1	ATG16L1	APG16L	607	https://www.uniprot.org/uniprotkb/Q676U5/entry
+CRB1	CRB1	Mapeado	P82279	CRUM1_HUMAN	Swiss-Prot (Reviewed)	Protein crumbs homolog 1	CRB1		1406	https://www.uniprot.org/uniprotkb/P82279/entry
+CTLA4	CTLA4	Mapeado	P16410	CTLA4_HUMAN	Swiss-Prot (Reviewed)	Cytotoxic T-lymphocyte protein 4	CTLA4	CD152	223	https://www.uniprot.org/uniprotkb/P16410/entry
+FNBP1	FNBP1	Mapeado	Q96RU3	FNBP1_HUMAN	Swiss-Prot (Reviewed)	Formin-binding protein 1	FNBP1	FBP17, KIAA0554	617	https://www.uniprot.org/uniprotkb/Q96RU3/entry
+TNFAIP6	TNFAIP6	Mapeado	P98066	TSG6_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor-inducible gene 6 protein	TNFAIP6	TSG6	277	https://www.uniprot.org/uniprotkb/P98066/entry
+TFPI	TFPI	Mapeado	P10646	TFPI1_HUMAN	Swiss-Prot (Reviewed)	Tissue factor pathway inhibitor	TFPI	LACI, TFPI1	304	https://www.uniprot.org/uniprotkb/P10646/entry
+IL2RA	IL2RA	Mapeado	P01589	IL2RA_HUMAN	Swiss-Prot (Reviewed)	Interleukin-2 receptor subunit alpha	IL2RA		272	https://www.uniprot.org/uniprotkb/P01589/entry
+FOSL2	FOSL2	Mapeado	P15408	FOSL2_HUMAN	Swiss-Prot (Reviewed)	Fos-related antigen 2	FOSL2	FRA2	326	https://www.uniprot.org/uniprotkb/P15408/entry
+DYSF	DYSF	Mapeado	O75923	DYSF_HUMAN	Swiss-Prot (Reviewed)	Dysferlin	DYSF	FER1L1	2080	https://www.uniprot.org/uniprotkb/O75923/entry
+LILRA5	LILRA5	Mapeado	A6NI73	LIRA5_HUMAN	Swiss-Prot (Reviewed)	Leukocyte immunoglobulin-like receptor subfamily A member 5	LILRA5	ILT11, LILRB7, LIR9	299	https://www.uniprot.org/uniprotkb/A6NI73/entry
+STIM1	STIM1	Mapeado	Q13586	STIM1_HUMAN	Swiss-Prot (Reviewed)	Stromal interaction molecule 1	STIM1	GOK	685	https://www.uniprot.org/uniprotkb/Q13586/entry
+ATXN2L	ATXN2L	Mapeado	Q8WWM7	ATX2L_HUMAN	Swiss-Prot (Reviewed)	Ataxin-2-like protein	ATXN2L	A2D, A2LG, A2LP, A2RP	1075	https://www.uniprot.org/uniprotkb/Q8WWM7/entry
+IGF2	IGF2	Mapeado	P01344	IGF2_HUMAN	Swiss-Prot (Reviewed)	Insulin-like growth factor 2	IGF2	IGF-2	180	https://www.uniprot.org/uniprotkb/P01344/entry
+WWOX	WWOX	Mapeado	Q9NZC7	WWOX_HUMAN	Swiss-Prot (Reviewed)	WW domain-containing oxidoreductase	WWOX	FOR, SDR41C1, WOX1	414	https://www.uniprot.org/uniprotkb/Q9NZC7/entry
+DUSP4	DUSP4	Mapeado	Q13115	DUS4_HUMAN	Swiss-Prot (Reviewed)	Dual specificity protein phosphatase 4	DUSP4	MKP2, VH2	394	https://www.uniprot.org/uniprotkb/Q13115/entry
+DDIT3	DDIT3	Mapeado	P35638	DDIT3_HUMAN	Swiss-Prot (Reviewed)	DNA damage-inducible transcript 3 protein	DDIT3	CHOP, CHOP10, GADD153	169	https://www.uniprot.org/uniprotkb/P35638/entry
+SUOX	SUOX	Mapeado	P51687	SUOX_HUMAN	Swiss-Prot (Reviewed)	Sulfite oxidase, mitochondrial	SUOX		545	https://www.uniprot.org/uniprotkb/P51687/entry
+OSMR	OSMR	Mapeado	Q99650	OSMR_HUMAN	Swiss-Prot (Reviewed)	Oncostatin-M-specific receptor subunit beta	OSMR	OSMRB	979	https://www.uniprot.org/uniprotkb/Q99650/entry
+PER1	PER1	Mapeado	O15534	PER1_HUMAN	Swiss-Prot (Reviewed)	Period circadian protein homolog 1	PER1	KIAA0482, PER, RIGUI	1290	https://www.uniprot.org/uniprotkb/O15534/entry
+ITGA2B	ITGA2B	Mapeado	P08514	ITA2B_HUMAN	Swiss-Prot (Reviewed)	Integrin alpha-IIb	ITGA2B	GP2B, ITGAB	1039	https://www.uniprot.org/uniprotkb/P08514/entry
+ANKRD55	ANKRD55	Mapeado	Q3KP44	ANR55_HUMAN	Swiss-Prot (Reviewed)	Ankyrin repeat domain-containing protein 55	ANKRD55		614	https://www.uniprot.org/uniprotkb/Q3KP44/entry
+ZMIZ1	ZMIZ1	Mapeado	Q9ULJ6	ZMIZ1_HUMAN	Swiss-Prot (Reviewed)	Zinc finger MIZ domain-containing protein 1	ZMIZ1	KIAA1224, RAI17, ZIMP10	1067	https://www.uniprot.org/uniprotkb/Q9ULJ6/entry
+LRRK2	LRRK2	Mapeado	Q5S007	LRRK2_HUMAN	Swiss-Prot (Reviewed)	Leucine-rich repeat serine/threonine-protein kinase 2	LRRK2	PARK8	2527	https://www.uniprot.org/uniprotkb/Q5S007/entry
+INS-IGF2	INS-IGF2	Mapeado	F8WCM5	INSR2_HUMAN	Swiss-Prot (Reviewed)	Insulin, isoform 2	INS-IGF2		200	https://www.uniprot.org/uniprotkb/F8WCM5/entry
+ERAP2	ERAP2	Mapeado	Q6P179	ERAP2_HUMAN	Swiss-Prot (Reviewed)	Endoplasmic reticulum aminopeptidase 2	ERAP2	LRAP	960	https://www.uniprot.org/uniprotkb/Q6P179/entry
+FCGR1A	FCGR1A	Mapeado	P12314	FCGR1_HUMAN	Swiss-Prot (Reviewed)	High affinity immunoglobulin gamma Fc receptor I	FCGR1A	FCG1, FCGR1, IGFR1	374	https://www.uniprot.org/uniprotkb/P12314/entry
+CMTM2	CMTM2	Mapeado	Q8TAZ6	CKLF2_HUMAN	Swiss-Prot (Reviewed)	CKLF-like MARVEL transmembrane domain-containing protein 2	CMTM2	CKLFSF2	248	https://www.uniprot.org/uniprotkb/Q8TAZ6/entry
+CD8B	CD8B	Mapeado	P10966	CD8B_HUMAN	Swiss-Prot (Reviewed)	T-cell surface glycoprotein CD8 beta chain	CD8B	CD8B1	210	https://www.uniprot.org/uniprotkb/P10966/entry
+BEND2	BEND2	Mapeado	Q8NDZ0	BEND2_HUMAN	Swiss-Prot (Reviewed)	BEN domain-containing protein 2	BEND2	CXorf20	799	https://www.uniprot.org/uniprotkb/Q8NDZ0/entry
+IGF2-AS	IGF2-AS	Mapeado	Q6U949	IG2AS_HUMAN	Swiss-Prot (Reviewed)	Putative insulin-like growth factor 2 antisense gene protein	IGF2-AS	IGF2-AS1, IGF2AS	168	https://www.uniprot.org/uniprotkb/Q6U949/entry
+LURAP1L	LURAP1L	Mapeado	Q8IV03	LUR1L_HUMAN	Swiss-Prot (Reviewed)	Leucine rich adaptor protein 1-like	LURAP1L	C9orf150	228	https://www.uniprot.org/uniprotkb/Q8IV03/entry
+FAXDC2	FAXDC2	Mapeado	Q96IV6	FXDC2_HUMAN	Swiss-Prot (Reviewed)	Fatty acid hydroxylase domain-containing protein 2	FAXDC2	C5orf4	333	https://www.uniprot.org/uniprotkb/Q96IV6/entry
+IL21-AS1	IL21-AS1	Não Encontrado no UniProtKB (Proteína)	-	-	-	Não codificante / miRNA / lncRNA / Pseudogene / Não encontrado	-	-	-	-
+LURAP1L-AS1	LURAP1L-AS1	Não Encontrado no UniProtKB (Proteína)	-	-	-	Não codificante / miRNA / lncRNA / Pseudogene / Não encontrado	-	-	-	-
+LINC01250	LINC01250	Não Encontrado no UniProtKB (Proteína)	-	-	-	Não codificante / miRNA / lncRNA / Pseudogene / Não encontrado	-	-	-	-
+SCN1A	SCN1A	Mapeado	P35498	SCN1A_HUMAN	Swiss-Prot (Reviewed)	Sodium channel protein type 1 subunit alpha	SCN1A	NAC1, SCN1	2009	https://www.uniprot.org/uniprotkb/P35498/entry
+ABCB11	ABCB11	Mapeado	O95342	ABCBB_HUMAN	Swiss-Prot (Reviewed)	Bile salt export pump	ABCB11	BSEP	1321	https://www.uniprot.org/uniprotkb/O95342/entry
+FRZB	FRZB	Mapeado	Q92765	SFRP3_HUMAN	Swiss-Prot (Reviewed)	Secreted frizzled-related protein 3	FRZB	FIZ, FRE, FRP, FRZB1, SFRP3	325	https://www.uniprot.org/uniprotkb/Q92765/entry
+GINS1	GINS1	Mapeado	Q14691	PSF1_HUMAN	Swiss-Prot (Reviewed)	DNA replication complex GINS protein PSF1	GINS1	KIAA0186, PSF1	196	https://www.uniprot.org/uniprotkb/Q14691/entry
+TMPRSS11B	TMPRSS11B	Mapeado	Q86T26	TM11B_HUMAN	Swiss-Prot (Reviewed)	Transmembrane protease serine 11B	TMPRSS11B	HATL5	416	https://www.uniprot.org/uniprotkb/Q86T26/entry
+EOMES	EOMES	Mapeado	O95936	EOMES_HUMAN	Swiss-Prot (Reviewed)	Eomesodermin homolog	EOMES	TBR2	686	https://www.uniprot.org/uniprotkb/O95936/entry
+AIM2	AIM2	Mapeado	O14862	AIM2_HUMAN	Swiss-Prot (Reviewed)	Interferon-inducible protein AIM2	AIM2		343	https://www.uniprot.org/uniprotkb/O14862/entry
+ICOS	ICOS	Mapeado	Q9Y6W8	ICOS_HUMAN	Swiss-Prot (Reviewed)	Inducible T-cell costimulator	ICOS	AILIM	199	https://www.uniprot.org/uniprotkb/Q9Y6W8/entry
+CCL20	CCL20	Mapeado	P78556	CCL20_HUMAN	Swiss-Prot (Reviewed)	C-C motif chemokine 20	CCL20	LARC, MIP3A, SCYA20	96	https://www.uniprot.org/uniprotkb/P78556/entry
+CLIC3	CLIC3	Mapeado	O95833	CLIC3_HUMAN	Swiss-Prot (Reviewed)	Chloride intracellular channel protein 3	CLIC3		236	https://www.uniprot.org/uniprotkb/O95833/entry
+SLC7A11	SLC7A11	Mapeado	Q9UPY5	XCT_HUMAN	Swiss-Prot (Reviewed)	Cystine/glutamate transporter	SLC7A11		501	https://www.uniprot.org/uniprotkb/Q9UPY5/entry
+TEK	TEK	Mapeado	Q02763	TIE2_HUMAN	Swiss-Prot (Reviewed)	Angiopoietin-1 receptor	TEK	TIE2, VMCM, VMCM1	1124	https://www.uniprot.org/uniprotkb/Q02763/entry
+GBP1	GBP1	Mapeado	P32455	GBP1_HUMAN	Swiss-Prot (Reviewed)	Guanylate-binding protein 1	GBP1		592	https://www.uniprot.org/uniprotkb/P32455/entry
+GBP3	GBP3	Mapeado	Q9H0R5	GBP3_HUMAN	Swiss-Prot (Reviewed)	Guanylate-binding protein 3	GBP3		595	https://www.uniprot.org/uniprotkb/Q9H0R5/entry
+TTC39B	TTC39B	Mapeado	Q5VTQ0	TT39B_HUMAN	Swiss-Prot (Reviewed)	Tetratricopeptide repeat protein 39B	TTC39B	C9orf52	682	https://www.uniprot.org/uniprotkb/Q5VTQ0/entry
+TNFRSF9	TNFRSF9	Mapeado	Q07011	TNR9_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor receptor superfamily member 9	TNFRSF9	CD137, ILA	255	https://www.uniprot.org/uniprotkb/Q07011/entry
+TGFBR3	TGFBR3	Mapeado	Q03167	TGBR3_HUMAN	Swiss-Prot (Reviewed)	Transforming growth factor beta receptor type 3	TGFBR3		851	https://www.uniprot.org/uniprotkb/Q03167/entry
+SPON2	SPON2	Mapeado	Q9BUD6	SPON2_HUMAN	Swiss-Prot (Reviewed)	Spondin-2	SPON2	DIL1	331	https://www.uniprot.org/uniprotkb/Q9BUD6/entry
+CXCL10	CXCL10	Mapeado	P02778	CXL10_HUMAN	Swiss-Prot (Reviewed)	C-X-C motif chemokine 10	CXCL10	INP10, SCYB10	98	https://www.uniprot.org/uniprotkb/P02778/entry
+CXCL13	CXCL13	Mapeado	O43927	CXL13_HUMAN	Swiss-Prot (Reviewed)	C-X-C motif chemokine 13	CXCL13	BCA1, BLC, SCYB13	109	https://www.uniprot.org/uniprotkb/O43927/entry
+SLC2A3	SLC2A3	Mapeado	P11169	GTR3_HUMAN	Swiss-Prot (Reviewed)	Solute carrier family 2, facilitated glucose transporter member 3	SLC2A3	GLUT3	496	https://www.uniprot.org/uniprotkb/P11169/entry
+HYAL4	HYAL4	Mapeado	Q2M3T9	HYAL4_HUMAN	Swiss-Prot (Reviewed)	Hyaluronidase-4	HYAL4		481	https://www.uniprot.org/uniprotkb/Q2M3T9/entry
+CALD1	CALD1	Mapeado	Q05682	CALD1_HUMAN	Swiss-Prot (Reviewed)	Caldesmon	CALD1	CAD, CDM	793	https://www.uniprot.org/uniprotkb/Q05682/entry
+OLR1	OLR1	Mapeado	P78380	OLR1_HUMAN	Swiss-Prot (Reviewed)	Oxidized low-density lipoprotein receptor 1	OLR1	CLEC8A, LOX1	273	https://www.uniprot.org/uniprotkb/P78380/entry
+CSMD1	CSMD1	Mapeado	Q96PZ7	CSMD1_HUMAN	Swiss-Prot (Reviewed)	CUB and sushi domain-containing protein 1	CSMD1	KIAA1890	3564	https://www.uniprot.org/uniprotkb/Q96PZ7/entry
+CCND1	CCND1	Mapeado	P24385	CCND1_HUMAN	Swiss-Prot (Reviewed)	G1/S-specific cyclin-D1	CCND1	BCL1, PRAD1	295	https://www.uniprot.org/uniprotkb/P24385/entry
+DDX60	DDX60	Mapeado	Q8IY21	DDX60_HUMAN	Swiss-Prot (Reviewed)	Probable ATP-dependent RNA helicase DDX60	DDX60		1712	https://www.uniprot.org/uniprotkb/Q8IY21/entry
+NRG1	NRG1	Mapeado	Q02297	NRG1_HUMAN	Swiss-Prot (Reviewed)	Pro-neuregulin-1, membrane-bound isoform	NRG1	GGF, HGL, HRGA, NDF, SMDF	640	https://www.uniprot.org/uniprotkb/Q02297/entry
+TNFSF13B	TNFSF13B	Mapeado	Q9Y275	TN13B_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor ligand superfamily member 13B	TNFSF13B	BAFF, BLYS, TALL1, TNFSF20, ZTNF4	285	https://www.uniprot.org/uniprotkb/Q9Y275/entry
+TLR3	TLR3	Mapeado	O15455	TLR3_HUMAN	Swiss-Prot (Reviewed)	Toll-like receptor 3	TLR3		904	https://www.uniprot.org/uniprotkb/O15455/entry
+PLS1	PLS1	Mapeado	Q14651	PLSI_HUMAN	Swiss-Prot (Reviewed)	Plastin-1	PLS1		629	https://www.uniprot.org/uniprotkb/Q14651/entry
+SAR1A	SAR1A	Mapeado	Q9NR31	SAR1A_HUMAN	Swiss-Prot (Reviewed)	Small COPII coat GTPase SAR1A	SAR1A	SAR1, SARA, SARA1	198	https://www.uniprot.org/uniprotkb/Q9NR31/entry
+BTG1	BTG1	Mapeado	P62324	BTG1_HUMAN	Swiss-Prot (Reviewed)	Protein BTG1	BTG1		171	https://www.uniprot.org/uniprotkb/P62324/entry
+CCL5	CCL5	Mapeado	P13501	CCL5_HUMAN	Swiss-Prot (Reviewed)	C-C motif chemokine 5	CCL5	D17S136E, SCYA5	91	https://www.uniprot.org/uniprotkb/P13501/entry
+LMO7	LMO7	Mapeado	Q8WWI1	LMO7_HUMAN	Swiss-Prot (Reviewed)	LIM domain only protein 7	LMO7	FBX20, FBXO20, KIAA0858	1683	https://www.uniprot.org/uniprotkb/Q8WWI1/entry
+GZMA	GZMA	Mapeado	P12544	GRAA_HUMAN	Swiss-Prot (Reviewed)	Granzyme A	GZMA	CTLA3, HFSP	262	https://www.uniprot.org/uniprotkb/P12544/entry
+PSME2	PSME2	Mapeado	Q9UL46	PSME2_HUMAN	Swiss-Prot (Reviewed)	Proteasome activator complex subunit 2	PSME2		239	https://www.uniprot.org/uniprotkb/Q9UL46/entry
+GJB6	GJB6	Mapeado	O95452	CXB6_HUMAN	Swiss-Prot (Reviewed)	Gap junction beta-6 protein	GJB6		261	https://www.uniprot.org/uniprotkb/O95452/entry
+PLG	PLG	Mapeado	P00747	PLMN_HUMAN	Swiss-Prot (Reviewed)	Plasminogen	PLG		810	https://www.uniprot.org/uniprotkb/P00747/entry
+EGR3	EGR3	Mapeado	Q06889	EGR3_HUMAN	Swiss-Prot (Reviewed)	Early growth response protein 3	EGR3	PILOT	387	https://www.uniprot.org/uniprotkb/Q06889/entry
+PLIN5	PLIN5	Mapeado	Q00G26	PLIN5_HUMAN	Swiss-Prot (Reviewed)	Perilipin-5	PLIN5	LSDP5, OXPAT, PAT-1	463	https://www.uniprot.org/uniprotkb/Q00G26/entry
+APOL6	APOL6	Mapeado	Q9BWW8	APOL6_HUMAN	Swiss-Prot (Reviewed)	Apolipoprotein L6	APOL6		343	https://www.uniprot.org/uniprotkb/Q9BWW8/entry
+TMEM45A	TMEM45A	Mapeado	Q9NWC5	TM45A_HUMAN	Swiss-Prot (Reviewed)	Transmembrane protein 45A	TMEM45A	DERP7, DNAPTP4	275	https://www.uniprot.org/uniprotkb/Q9NWC5/entry
+TNFAIP8	TNFAIP8	Mapeado	O95379	TFIP8_HUMAN	Swiss-Prot (Reviewed)	Tumor necrosis factor alpha-induced protein 8	TNFAIP8		198	https://www.uniprot.org/uniprotkb/O95379/entry
+CD274	CD274	Mapeado	Q9NZQ7	PD1L1_HUMAN	Swiss-Prot (Reviewed)	Programmed cell death 1 ligand 1	CD274	B7H1, PDCD1L1, PDCD1LG1, PDL1	290	https://www.uniprot.org/uniprotkb/Q9NZQ7/entry
+IFIT3	IFIT3	Mapeado	O14879	IFIT3_HUMAN	Swiss-Prot (Reviewed)	Interferon-induced protein with tetratricopeptide repeats 3	IFIT3	CIG-49, IFI60, IFIT4, ISG60	490	https://www.uniprot.org/uniprotkb/O14879/entry
+MUCL1	MUCL1	Mapeado	Q96DR8	MUCL1_HUMAN	Swiss-Prot (Reviewed)	Mucin-like protein 1	MUCL1	SBEM	90	https://www.uniprot.org/uniprotkb/Q96DR8/entry
+ZNF483	ZNF483	Mapeado	Q8TF39	ZN483_HUMAN	Swiss-Prot (Reviewed)	Zinc finger protein 483	ZNF483	KIAA1962, ZKSCAN16	744	https://www.uniprot.org/uniprotkb/Q8TF39/entry
+TRIM22	TRIM22	Mapeado	Q8IYM9	TRI22_HUMAN	Swiss-Prot (Reviewed)	E3 ubiquitin-protein ligase TRIM22	TRIM22	RNF94, STAF50	498	https://www.uniprot.org/uniprotkb/Q8IYM9/entry
+CLEC2B	CLEC2B	Mapeado	Q92478	CLC2B_HUMAN	Swiss-Prot (Reviewed)	C-type lectin domain family 2 member B	CLEC2B	AICL, CLECSF2, IFNRG1	149	https://www.uniprot.org/uniprotkb/Q92478/entry
+S100P	S100P	Mapeado	P25815	S100P_HUMAN	Swiss-Prot (Reviewed)	Protein S100-P	S100P	S100E	95	https://www.uniprot.org/uniprotkb/P25815/entry
+NABP1	NABP1	Mapeado	Q96AH0	SOSB2_HUMAN	Swiss-Prot (Reviewed)	SOSS complex subunit B2	NABP1	OBFC2A, SSB2	204	https://www.uniprot.org/uniprotkb/Q96AH0/entry
+PSG2	PSG2	Mapeado	P11465	PSG2_HUMAN	Swiss-Prot (Reviewed)	Pregnancy-specific beta-1-glycoprotein 2	PSG2	PSBG2	335	https://www.uniprot.org/uniprotkb/P11465/entry
+PI3	PI3	Mapeado	P19957	ELAF_HUMAN	Swiss-Prot (Reviewed)	Elafin	PI3	WAP3, WFDC14	117	https://www.uniprot.org/uniprotkb/P19957/entry
+HERC6	HERC6	Mapeado	Q8IVU3	HERC6_HUMAN	Swiss-Prot (Reviewed)	Probable E3 ubiquitin-protein ligase HERC6	HERC6		1022	https://www.uniprot.org/uniprotkb/Q8IVU3/entry
+LYZ	LYZ	Mapeado	P61626	LYSC_HUMAN	Swiss-Prot (Reviewed)	Lysozyme C	LYZ	LZM	148	https://www.uniprot.org/uniprotkb/P61626/entry
+APOL1	APOL1	Mapeado	O14791	APOL1_HUMAN	Swiss-Prot (Reviewed)	Apolipoprotein L1	APOL1	APOL	398	https://www.uniprot.org/uniprotkb/O14791/entry
+IFI6	IFI6	Mapeado	P09912	IFI6_HUMAN	Swiss-Prot (Reviewed)	Interferon alpha-inducible protein 6	IFI6	G1P3	130	https://www.uniprot.org/uniprotkb/P09912/entry
+HSPA6	HSPA6	Mapeado	P17066	HSP76_HUMAN	Swiss-Prot (Reviewed)	Heat shock 70 kDa protein 6	HSPA6	HSP70B'	643	https://www.uniprot.org/uniprotkb/P17066/entry
+C15ORF48	C15ORF48	Mapeado	Q9C002	CX4L3_HUMAN	Swiss-Prot (Reviewed)	Cytochrome c oxidase associated subunit FA4L3	COXFA4L3	C15orf48, MOCCI, NMES1	83	https://www.uniprot.org/uniprotkb/Q9C002/entry
+KLRB1	KLRB1	Mapeado	Q12918	KLRB1_HUMAN	Swiss-Prot (Reviewed)	Killer cell lectin-like receptor subfamily B member 1	KLRB1	CLEC5B, NKRP1A	225	https://www.uniprot.org/uniprotkb/Q12918/entry
+CYP4F22	CYP4F22	Mapeado	Q6NT55	CP4FN_HUMAN	Swiss-Prot (Reviewed)	Ultra-long-chain fatty acid omega-hydroxylase	CYP4F22		531	https://www.uniprot.org/uniprotkb/Q6NT55/entry
+HLA-DQB1	HLA-DQB1	Mapeado	P01920	DQB1_HUMAN	Swiss-Prot (Reviewed)	HLA class II histocompatibility antigen, DQ beta 1 chain	HLA-DQB1	HLA-DQB	261	https://www.uniprot.org/uniprotkb/P01920/entry
+SLC51B	SLC51B	Mapeado	Q86UW2	OSTB_HUMAN	Swiss-Prot (Reviewed)	Organic solute transporter subunit beta	SLC51B	OSTB	128	https://www.uniprot.org/uniprotkb/Q86UW2/entry
+NOXRED1	NOXRED1	Mapeado	Q6NXP6	NXRD1_HUMAN	Swiss-Prot (Reviewed)	NADP-dependent oxidoreductase domain-containing protein 1	NOXRED1	C14orf148	359	https://www.uniprot.org/uniprotkb/Q6NXP6/entry
+C7ORF57	C7ORF57	Mapeado	Q8NEG2	CG057_HUMAN	Swiss-Prot (Reviewed)	Uncharacterized protein C7orf57	C7orf57		295	https://www.uniprot.org/uniprotkb/Q8NEG2/entry
+EFCAB13	EFCAB13	Mapeado	Q8IY85	EFC13_HUMAN	Swiss-Prot (Reviewed)	EF-hand calcium-binding domain-containing protein 13	EFCAB13	C17orf57	973	https://www.uniprot.org/uniprotkb/Q8IY85/entry
+HCAR3	HCAR3	Mapeado	P49019	HCAR3_HUMAN	Swiss-Prot (Reviewed)	Hydroxycarboxylic acid receptor 3	HCAR3	GPR109B, HCA3, HM74B, NIACR2	387	https://www.uniprot.org/uniprotkb/P49019/entry
+ADAMTS9	ADAMTS9	Mapeado	Q9P2N4	ATS9_HUMAN	Swiss-Prot (Reviewed)	A disintegrin and metalloproteinase with thrombospondin motifs 9	ADAMTS9	KIAA1312	1935	https://www.uniprot.org/uniprotkb/Q9P2N4/entry
+MYNN	MYNN	Mapeado	Q9NPC7	MYNN_HUMAN	Swiss-Prot (Reviewed)	Myoneurin	MYNN	OSZF, ZBTB31	610	https://www.uniprot.org/uniprotkb/Q9NPC7/entry
+SP7	SP7	Mapeado	Q8TDD2	SP7_HUMAN	Swiss-Prot (Reviewed)	Transcription factor Sp7	SP7	OSX	431	https://www.uniprot.org/uniprotkb/Q8TDD2/entry
+SLC1A2	SLC1A2	Mapeado	P43004	EAA2_HUMAN	Swiss-Prot (Reviewed)	Excitatory amino acid transporter 2	SLC1A2	EAAT2, GLT1	574	https://www.uniprot.org/uniprotkb/P43004/entry
+PFDN4	PFDN4	Mapeado	Q9NQP4	PFD4_HUMAN	Swiss-Prot (Reviewed)	Prefoldin subunit 4	PFDN4	PFD4	134	https://www.uniprot.org/uniprotkb/Q9NQP4/entry
+FGB	FGB	Mapeado	P02675	FIBB_HUMAN	Swiss-Prot (Reviewed)	Fibrinogen beta chain	FGB		491	https://www.uniprot.org/uniprotkb/P02675/entry
+KANK4	KANK4	Mapeado	Q5T7N3	KANK4_HUMAN	Swiss-Prot (Reviewed)	KN motif and ankyrin repeat domain-containing protein 4	KANK4	ANKRD38	995	https://www.uniprot.org/uniprotkb/Q5T7N3/entry
+EFCAB7	EFCAB7	Mapeado	A8K855	EFCB7_HUMAN	Swiss-Prot (Reviewed)	EF-hand calcium-binding domain-containing protein 7	EFCAB7	KIAA1799	629	https://www.uniprot.org/uniprotkb/A8K855/entry
+PPARGC1A	PPARGC1A	Mapeado	Q9UBK2	PRGC1_HUMAN	Swiss-Prot (Reviewed)	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	PPARGC1A	LEM6, PGC1, PGC1A, PPARGC1	798	https://www.uniprot.org/uniprotkb/Q9UBK2/entry
+TOMM7	TOMM7	Mapeado	Q9P0U1	TOM7_HUMAN	Swiss-Prot (Reviewed)	Mitochondrial import receptor subunit TOM7 homolog	TOMM7	TOM7, TOMM07	55	https://www.uniprot.org/uniprotkb/Q9P0U1/entry
+CSN3	CSN3	Mapeado	P07498	CASK_HUMAN	Swiss-Prot (Reviewed)	Kappa-casein	CSN3	CASK, CSN10, CSNK	182	https://www.uniprot.org/uniprotkb/P07498/entry
+CLEC4D	CLEC4D	Mapeado	Q8WXI8	CLC4D_HUMAN	Swiss-Prot (Reviewed)	C-type lectin domain family 4 member D	CLEC4D	CLECSF8, MCL	215	https://www.uniprot.org/uniprotkb/Q8WXI8/entry
+CD69	CD69	Mapeado	Q07108	CD69_HUMAN	Swiss-Prot (Reviewed)	Early activation antigen CD69	CD69	CLEC2C	199	https://www.uniprot.org/uniprotkb/Q07108/entry
+MMP7	MMP7	Mapeado	P09237	MMP7_HUMAN	Swiss-Prot (Reviewed)	Matrilysin	MMP7	MPSL1, PUMP1	267	https://www.uniprot.org/uniprotkb/P09237/entry
+CAPS2	CAPS2	Mapeado	Q9BXY5	CAYP2_HUMAN	Swiss-Prot (Reviewed)	Calcyphosin-2	CAPS2		538	https://www.uniprot.org/uniprotkb/Q9BXY5/entry
+RPL41	RPL41	Mapeado	P62945	RS32_HUMAN	Swiss-Prot (Reviewed)	Small ribosomal subunit protein eS32	RPL41		25	https://www.uniprot.org/uniprotkb/P62945/entry
+CENPK	CENPK	Mapeado	Q9BS16	CENPK_HUMAN	Swiss-Prot (Reviewed)	Centromere protein K	CENPK	ICEN37	269	https://www.uniprot.org/uniprotkb/Q9BS16/entry
+ABCD2	ABCD2	Mapeado	Q9UBJ2	ABCD2_HUMAN	Swiss-Prot (Reviewed)	ATP-binding cassette sub-family D member 2	ABCD2	ALD1, ALDL1, ALDR, ALDRP	740	https://www.uniprot.org/uniprotkb/Q9UBJ2/entry
+PFDN5	PFDN5	Mapeado	Q99471	PFD5_HUMAN	Swiss-Prot (Reviewed)	Prefoldin subunit 5	PFDN5	MM1, PFD5	154	https://www.uniprot.org/uniprotkb/Q99471/entry
+ANXA1	ANXA1	Mapeado	P04083	ANXA1_HUMAN	Swiss-Prot (Reviewed)	Annexin A1	ANXA1	ANX1, LPC1	346	https://www.uniprot.org/uniprotkb/P04083/entry
+JRKL	JRKL	Mapeado	Q9Y4A0	JERKL_HUMAN	Swiss-Prot (Reviewed)	Jerky protein homolog-like	JRKL		524	https://www.uniprot.org/uniprotkb/Q9Y4A0/entry
+LPAL2	LPAL2	Mapeado	Q16609	LPAL2_HUMAN	Swiss-Prot (Reviewed)	Putative apolipoprotein(a)-like protein 2	LPAL2	APOARGC	132	https://www.uniprot.org/uniprotkb/Q16609/entry
+ZNF415	ZNF415	Mapeado	Q09FC8	ZN415_HUMAN	Swiss-Prot (Reviewed)	Zinc finger protein 415	ZNF415		603	https://www.uniprot.org/uniprotkb/Q09FC8/entry
+RGPD6	RGPD6	Mapeado	Q99666	RGPD5_HUMAN	Swiss-Prot (Reviewed)	RANBP2-like and GRIP domain-containing protein 5/6	RGPD5	RANBP2L1, RGP5, RGP7, RGPD7	1765	https://www.uniprot.org/uniprotkb/Q99666/entry
+CMAHP	CMAHP	Mapeado	Q9Y471	CMAH_HUMAN	Swiss-Prot (Reviewed)	Inactive cytidine monophosphate-N-acetylneuraminic acid hydroxylase	CMAHP	CMAH	501	https://www.uniprot.org/uniprotkb/Q9Y471/entry
